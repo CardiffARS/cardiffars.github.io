@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cardiff University Amateur Radio Society</title>
+    <link>https://www.cardiffars.org.uk/</link>
+    <description>Recent content on Cardiff University Amateur Radio Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Creative Commons BY-SA 4.0</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 23:29:44 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.cardiffars.org.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.cardiffars.org.uk/posts/my-first-post/</link>
+      <pubDate>Thu, 01 Nov 2018 23:29:44 +0000</pubDate>
+      
+      <guid>https://www.cardiffars.org.uk/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Cardiff University Amateur Radio Society&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
