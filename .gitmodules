@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:CardiffARS/cardiffars.github.io
 	branch = master
+[submodule "themes/hugo-smorg"]
+	path = themes/hugo-smorg
+    url = git@github.com:solutionroute/hugo-smorg
+    branch = master
