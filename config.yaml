@@ -167,7 +167,7 @@ menu:
           parent: "project"
           weight: 303
 
-        - name: "Blog"
+        - name: "News"
           url: "post/"
           weight: 40
 
