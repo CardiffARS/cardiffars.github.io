@@ -1,0 +1,23 @@
+<section class="section hero is-fullheight" itemscope itemtype="http://schema.org/HomePage">
+	<div class="hero-head">
+		{{ partial "nav.html" . }}
+	</div>
+	<div class="hero-body">
+		<div class="container">
+			<div class="columns">
+				<div class="column is-8 is-offset-2 has-text-centered">
+          <figure>
+            <img src="/cuars_logo_redblue.svg" width=60% />
+          </figure>
+          <br/>
+					<div class="content">
+					{{ .Content }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="hero-foot">
+{{ partial "footer.html" . }}
+	</div>
+</section>
