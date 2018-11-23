@@ -76,13 +76,6 @@ enableRobotsTXT: true
 # https://www.webpagefx.com/tools/emoji-cheat-sheet/
 enableEmoji: false
 
-
-
-
-
-
-
-
 # Optional Features ------------------------------------------------------
 
 # $.Site.Params variables are user-definable; the Hugo-Smorg theme makes use of
@@ -147,29 +140,6 @@ menu:
           parent: "info"
           weight: 201
 
-        - name: "Projects"
-          url: "project/"
-          identifier: "project"
-          weight: 30
-
-        - name: "Hugo-Smorg"
-          url: "project/hugo-smorg/"
-          parent: "project"
-          weight: 301
-
-        - name: "Blorg Bread Machine"
-          url: "project/blorg-bread-machine/"
-          parent: "project"
-          weight: 302
-
-        - name: "XYZ-1000"
-          url: "project/xyz-1000/"
-          parent: "project"
-          weight: 303
-
-        - name: "News"
-          url: "post/"
-          weight: 40
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
