@@ -135,11 +135,15 @@ menu:
           identifier: "info"
           weight: 20 
 
-        - name: "Contact Us"
-          url: "info/contact/"
+        - name: "Join"
+          url: "info/join"
           parent: "info"
           weight: 201
 
+        - name: "Contact Us"
+          url: "info/contact"
+          parent: "info"
+          weight: 202
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
