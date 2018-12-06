@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What is Amateur Radio? on Cardiff University Amateur Radio Society</title>
+    <title>Who are we? on Cardiff University Amateur Radio Society</title>
     <link>https://www.cardiffars.org.uk/info/</link>
-    <description>Recent content in What is Amateur Radio? on Cardiff University Amateur Radio Society</description>
+    <description>Recent content in Who are we? on Cardiff University Amateur Radio Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
@@ -15,12 +15,12 @@
     
     
     <item>
-      <title>Join the Society</title>
-      <link>https://www.cardiffars.org.uk/info/contact/</link>
+      <title>Getting Licensed</title>
+      <link>https://www.cardiffars.org.uk/info/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
-      <guid>https://www.cardiffars.org.uk/info/contact/</guid>
-      <description>Join the society</description>
+      <guid>https://www.cardiffars.org.uk/info/licensing/</guid>
+      <description>Anyone is allowed to receive and listen to signals being broadcast, but as described in the What is Amateur Radio page it is necessary to get a license before transmitting.</description>
     </item>
     
     <item>

@@ -24,6 +24,15 @@
     </item>
     
     <item>
+      <title>Radio Direction Finding</title>
+      <link>https://www.cardiffars.org.uk/projects/rdf/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/projects/rdf/</guid>
+      <description>Direction Finding (DF) is an international competative sport where a team or individual has to locate a number of hidden transmitters using basic equipment, namely: a receiver, directional antenna and (usually) a map.</description>
+    </item>
+    
+    <item>
       <title>401 Unauthorized</title>
       <link>https://www.cardiffars.org.uk/401/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
@@ -34,12 +43,12 @@ You&amp;rsquo;ve attempted to visit a section of the website reserved for author
     </item>
     
     <item>
-      <title>Join the Society</title>
-      <link>https://www.cardiffars.org.uk/info/contact/</link>
+      <title>Getting Licensed</title>
+      <link>https://www.cardiffars.org.uk/info/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
-      <guid>https://www.cardiffars.org.uk/info/contact/</guid>
-      <description>Join the society</description>
+      <guid>https://www.cardiffars.org.uk/info/licensing/</guid>
+      <description>Anyone is allowed to receive and listen to signals being broadcast, but as described in the What is Amateur Radio page it is necessary to get a license before transmitting.</description>
     </item>
     
     <item>
