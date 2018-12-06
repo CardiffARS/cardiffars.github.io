@@ -150,8 +150,8 @@ menu:
           parent: "info"
           weight: 301
 
-        - name: "Contact Us"
-          url: "info/contact"
+        - name: "Getting Licensed"
+          url: "info/licensing"
           parent: "info"
           weight: 302
 
