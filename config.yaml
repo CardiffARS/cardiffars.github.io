@@ -130,27 +130,30 @@ menu:
           identifer: "what"
           weight: 10 
 
+        - name: "Projects"
+          url: "projects/"
+          Identifier: "projects"
+          weight: 20
+        
+        - name: "Direction Finding"
+          url: "projects/rdf"
+          parent: "projects"
+          weight: 201
+
         - name: "Club Info"
           url: "info/"
           identifier: "info"
-          weight: 20 
+          weight: 30 
 
         - name: "Join"
           url: "info/join"
           parent: "info"
-          weight: 201
+          weight: 301
 
         - name: "Contact Us"
           url: "info/contact"
           parent: "info"
-          weight: 202
-
-
-        - name: "Projects"
-          url: "project"
-          Identifier: "Project"
-          weight: 30
-
+          weight: 302
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
