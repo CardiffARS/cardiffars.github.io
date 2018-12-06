@@ -145,6 +145,13 @@ menu:
           parent: "info"
           weight: 202
 
+
+        - name: "Projects"
+          url: "project"
+          Identifier: "Project"
+          weight: 30
+
+
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
 # Change default rss filename to rss.xml, layout is built in to Hugo 
