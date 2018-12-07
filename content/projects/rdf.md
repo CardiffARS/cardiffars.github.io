@@ -4,8 +4,8 @@ date: 2018-03-03T09:17:17-08:00
 draft: false
 layout: single
 slug: rdf 
-tags: ['iot', 'radio']
-categories: ['products']
+tags: ['rdf', 'radio']
+categories: ['projects']
 ---
 
 Direction Finding (DF) is an international competative sport where a team or individual has to locate a number of hidden transmitters using basic equipment, namely: a receiver, directional antenna and (usually) a map. Direction finding can be a small competition in an urban enviroment over 100's of meters or a large event covering 10's of miles over rough terrain in a national park!
