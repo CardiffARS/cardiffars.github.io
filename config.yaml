@@ -145,15 +145,20 @@ menu:
           identifier: "info"
           weight: 30 
 
+        - name: "Equipment"
+          url: "info/equipment"
+          parent: "info"
+          weight: 301
+
         - name: "Join"
           url: "info/join"
           parent: "info"
-          weight: 301
+          weight: 302
 
         - name: "Getting Licensed"
           url: "info/licensing"
           parent: "info"
-          weight: 302
+          weight: 303
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
