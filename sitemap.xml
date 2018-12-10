@@ -43,23 +43,15 @@
   </url>
   
   <url>
+    <loc>https://www.cardiffars.org.uk/info/equipment/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.cardiffars.org.uk/info/licensing/</loc>
   </url>
   
   <url>
-    <loc>https://www.cardiffars.org.uk/tags/iot/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cardiffars.org.uk/info/join/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.cardiffars.org.uk/categories/products/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -69,7 +61,19 @@
   </url>
   
   <url>
+    <loc>https://www.cardiffars.org.uk/categories/projects/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cardiffars.org.uk/tags/radio/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/tags/rdf/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>

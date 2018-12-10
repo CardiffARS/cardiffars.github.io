@@ -2,15 +2,13 @@
 <html lang="en-us">
 <head>
 	<title>
-		About - Cardiff University Amateur Radio Society
+		Equipment - Cardiff University Amateur Radio Society
 	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://www.cardiffars.org.uk/">
-	<link rel="canonical" href="https://www.cardiffars.org.uk/about/"><meta name="description" content="The homepage of the Amateur Radio Society at Cardiff University"> 
-	<link rel="alternate" type="application/rss&#43;xml" 
-	      href="https://www.cardiffars.org.uk/about/rss.xml" title="Cardiff University Amateur Radio Society">
+	<link rel="canonical" href="https://www.cardiffars.org.uk/info/equipment/"><meta name="description" content="The homepage of the Amateur Radio Society at Cardiff University">
 	<link rel="preload" href="https://www.cardiffars.org.uk/css/smorg.min.css" as="style">
 	<link rel="stylesheet" href="https://www.cardiffars.org.uk/css/smorg.min.css">
 	<meta name="generator" content="Hugo 0.47.1" />
@@ -60,60 +58,99 @@
 			</div>
 		</div>
 	</nav>
-
 <section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
 			<div class="column is-8 is-offset-2">
-					
-
-
-<nav class="breadcrumb" aria-label="breadcrumbs">
-	<ul>
-
-		<li class="is-active">
-			<a href="/about/" 
-				aria-current="page">About</a>
-		</li>
-			<li >
-				<a href="/about/contact/">Contact</a>
-			</li>
-	</ul>
-</nav>
-
 				<article class="content">
-					<h1 class="title is-3">About</h1>
-<p>This example &ldquo;about&rdquo; page, and other pages associated with the &ldquo;About&rdquo; section,
-illustrate two features provided by Hugo-Smorg:</p>
+					<h1 class="title is-3">Equipment</h1></br>
+					<p class="subtitle is-6 has-text-grey">
+					<em></em></p>
+
+
+<p>Cardiff ARS is fortunate to have had a Software Defined Radio transceiver donated to the society. We use it with GNU Radio to demonstrate RF and communication signal concepts during our info sessions and to run demonstrations at public events. Within the group it is available to anyone interested in experimenting with Digital Signal Processing or UHF and Microwave systems.</p>
+
+
+<figure>
+    
+        <img src="/info/adalm-pluto.png" width="75%" />
+    
+    
+</figure>
+
+
+<h2 id="analog-devices-adalm-pluto">Analog Devices ADALM-PLUTO</h2>
 
 <ul>
-<li><strong>layout</strong>: subsection</li>
-<li><strong>partial</strong>: breadcrumbs (included in subsection layout by default)</li>
+<li>325 MHz to 3.8 GHz continuous</li>
+<li>20 MHz instantaneous bandwidth</li>
+<li>GNU Radio and Matlab support</li>
 </ul>
 
-<p>If you find a need for a layout like:</p>
-<div class="highlight"><pre class="chroma">/about/
-/about/contact/
-/about/contact-my-dog/
-/about/legal/</pre></div>
-<p>Then <code>_default/subsection.html</code> layout and <code>partials/section-crumbs.html</code> may be just
-what you need. To use simply add the following variable to your front-matter in all
-content found within the &ldquo;about&rdquo; section, including its <code>_index.html</code>:</p>
-<div class="highlight"><pre class="chroma">---
-layout: subsection
----</pre></div>
-<p>By default the link title is the Page&rsquo;s title (.Name); long titles won&rsquo;t work
-well; you can supply <code>slug</code> in font-matter to override this for breadcrumbs:</p>
-<div class="highlight"><pre class="chroma">---
-slug: board
----</pre></div>
-<p><strong>Note</strong>: Use of <code>slug</code> will also affect your Page&rsquo;s URL. Oftentimes this may
-be in line with what you want for a breadcrumb-appropriate menu. You can
-optionally maintain an alias to the former or any prior URI using <a href="https://gohugo.io/content-management/urls/#how-hugo-aliases-work">Hugo&rsquo;s alias
-feature</a> in
-page frontmatter:</p>
-<div class="highlight"><pre class="chroma">aliases: [/posts/my-old-url/]</pre></div>
-<p>Get the theme here: <a href="https://github.com/solutionroute/hugo-smorg">https://github.com/solutionroute/hugo-smorg</a>.</p>
+<hr />
+
+<p>The society does not currently own any conventional radios and is grateful to a local Amateur Radio operator who has lent three radios to the society until we are able to get equipment of our own.</p>
+
+<hr />
+
+
+<figure>
+    
+        <img src="/info/kenwood_ts590s.jpg" width="75%" />
+    
+    
+</figure>
+
+
+<h2 id="kenwood-ts-590s">Kenwood TS-590s</h2>
+
+<ul>
+<li>Single Side Band, AM, FM, FSK, CW, DATA</li>
+<li>1.8 MHz to 50 MHz bands</li>
+<li>100 Watts max</li>
+<li>USB control and audio streaming</li>
+</ul>
+
+<hr />
+
+
+<figure>
+    
+        <img src="/info/kenwood_tmv7.gif" width="75%" />
+    
+    
+</figure>
+
+
+<h2 id="kenwood-tm-v7a">Kenwood TM-V7A</h2>
+
+<ul>
+<li>Narrowband FM</li>
+<li>144 MHz and 432 MHz bands</li>
+<li>50 Watts max</li>
+<li>Dual receiver</li>
+</ul>
+
+<hr />
+
+
+<figure>
+    
+        <img src="/info/baofeng_bff8.jpg" width="75%" />
+    
+    
+</figure>
+
+
+<h2 id="baofeng-bf-f8">Baofeng BF-F8+</h2>
+
+<ul>
+<li>Narrowband FM</li>
+<li>144 MHz and 432 MHz bands</li>
+<li>5 Watts max</li>
+</ul>
+
+					
 
 				</article>
 			</div>
@@ -145,8 +182,8 @@ page frontmatter:</p>
 { 
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
-	"@id": "https://www.cardiffars.org.uk/about/",
-	"name": "About","description": "Demonstration of Hugo content management approach for subsection pages and associated breadcrumb menu."
+	"@id": "https://www.cardiffars.org.uk/info/equipment/",
+	"name": "Equipment",
 }
 </script>
 
