@@ -24,6 +24,8 @@ The entry-level Foundation license allows you to transmit voice, video, morse, a
 The Intermediate class license increases the power limit to 50 Watts and opens up more spectrum for use, extending the upper limit to 248 GHz! The extra power helps to carry your signals farther, even all the way to the moon and back.
 
 ### Full
-The Full license gives you access to every square inch of spectrum that is allocated by Ofcom for amateur use. The allowable power is raised to 400 Watts and you can use your license internationally. To obtain any of these licenses, you must first pass one or more multiple-choice exams. These exams are administered by teams of volunteers, including a group here at Cardiff University. There is a small fee to cover the cost of the exam, but the license itself is free and can be renewed for life at no cost once it is granted.
+The Full license gives you access to every square inch of spectrum that is allocated by Ofcom for amateur use. The allowable power is raised to 400 Watts and you can use your license internationally.
+
+To obtain any of these licenses, you must first pass a multiple-choice exam. These exams are administered by teams of volunteers, including the society here at Cardiff University. There is a small fee to cover the cost of the exam, but the license itself is free and can be renewed for life at no cost once it is granted. Check our [Licensing](/info/licensing/) page for details.
 
 If you are interested in learning more, please contact us! We usually offer exams on campus two or three times each semester. For more information and study resources, visit the [Radio Society of Great Britain](https://rsgb.org/), which is the national association for amateur radio in the United Kingdom.
