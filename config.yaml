@@ -130,35 +130,46 @@ menu:
           identifer: "what"
           weight: 10 
 
+        - name: "Events"
+          url: "events"
+          identifer: "events"
+          weight: 20
+
+        - name: "Roundtable"
+          url: "events/2019/roundtable"
+          identifer: "roundtable"
+          parent: "Events"
+          weight: 201 
+
         - name: "Projects"
           url: "projects/"
           Identifier: "projects"
-          weight: 20
+          weight: 30
         
         - name: "Direction Finding"
           url: "projects/rdf"
           parent: "projects"
-          weight: 201
+          weight: 301
 
         - name: "Club Info"
           url: "info/"
           identifier: "info"
-          weight: 30 
+          weight: 40
 
         - name: "Equipment"
           url: "info/equipment"
           parent: "info"
-          weight: 301
+          weight: 401
 
         - name: "Join"
           url: "info/join"
           parent: "info"
-          weight: 302
+          weight: 402
 
         - name: "Getting Licensed"
           url: "info/licensing"
           parent: "info"
-          weight: 303
+          weight: 403
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
@@ -182,5 +193,6 @@ outputs:
     - RSS
 
 # Optional, disable RSS feed
-#disableKinds:
-  #- RSS
+disableKinds:
+- taxonomy
+- taxonomyKinds
