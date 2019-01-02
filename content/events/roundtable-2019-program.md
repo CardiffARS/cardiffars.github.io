@@ -1,12 +1,10 @@
 ---
-title: "UK Microwave Group Cardiff Roundtable"
+title: "Cardiff Microwave Roundtable"
 description: ""
 draft: false
 layout: single
 slug: 2019/roundtable/program
 ---
-
-CUARS will be hosting a meeting of the [UK Microwave Group](http://www.microwavers.org) in March of 2019 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.
 
 <div class="tabs is-centered">
     <ul>
@@ -24,7 +22,7 @@ Time    | Event    | Description
 10:40   | Talk 1
 11:30   | Talk 2
 12:10   | Break    | Measurements, project demos, etc
-12:30   | Lunch 
+12:30   | Lunch    | Buffet at the University
 13:30   | Talk 3
 14:10   | Talk 4
 14:50   | Break
@@ -33,4 +31,4 @@ Time    | Event    | Description
 16:35   | Break
 16:50   | Talk 7
 17:30   | Closing remarks
-18:30 - 21:00 | Dinner
+18:30 - 21:00 | [Dinner](/events/2019/roundtable/dinner)
