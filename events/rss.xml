@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events and Activities on Cardiff University Amateur Radio Society</title>
+    <link>https://www.cardiffars.org.uk/events/</link>
+    <description>Recent content in Events and Activities on Cardiff University Amateur Radio Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
+    <webMaster>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://www.cardiffars.org.uk/events/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cardiff Microwave Roundtable</title>
+      <link>https://www.cardiffars.org.uk/events/2019/roundtable/dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/events/2019/roundtable/dinner/</guid>
+      <description>About Program Dinner   Dinner There will be a group dinner in the evening from 18:30 to 21:00 at a nearby restaurant within easy walking distance of the main venue.</description>
+    </item>
+    
+    <item>
+      <title>Cardiff Microwave Roundtable</title>
+      <link>https://www.cardiffars.org.uk/events/2019/roundtable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/events/2019/roundtable/</guid>
+      <description>About Program Dinner   CUARS will be hosting a meeting of the UK Microwave Group on Saturday March 16, 2019 at our campus in Cardiff.</description>
+    </item>
+    
+    <item>
+      <title>Cardiff Microwave Roundtable</title>
+      <link>https://www.cardiffars.org.uk/events/2019/roundtable/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/events/2019/roundtable/program/</guid>
+      <description>  About Program Dinner   March 16, 2019    Time Event Description     10:30 Welcome    10:40 Talk 1    11:30 Talk 2    12:10 Break Measurements, project demos, etc   12:30 Lunch Buffet at the University   13:30 Talk 3    14:10 Talk 4    14:50 Break    15:15 Talk 5    15:55 Talk 6    16:35 Break    16:50 Talk 7    17:30 Closing remarks    18:30 - 21:00 Dinner     </description>
+    </item>
+    
+  </channel>
+</rss>

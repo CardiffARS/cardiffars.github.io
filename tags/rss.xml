@@ -9,28 +9,9 @@
     <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
     <webMaster>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 03 Mar 2018 09:17:17 -0800</lastBuildDate>
     
 	<atom:link href="https://www.cardiffars.org.uk/tags/rss.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Radio</title>
-      <link>https://www.cardiffars.org.uk/tags/radio/</link>
-      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
-      <guid>https://www.cardiffars.org.uk/tags/radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rdf</title>
-      <link>https://www.cardiffars.org.uk/tags/rdf/</link>
-      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
-      <guid>https://www.cardiffars.org.uk/tags/rdf/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

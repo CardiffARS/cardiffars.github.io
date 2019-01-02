@@ -38,12 +38,28 @@
   </url>
   
   <url>
+    <loc>https://www.cardiffars.org.uk/events/2019/roundtable/dinner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/events/2019/roundtable/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/events/2019/roundtable/program/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.cardiffars.org.uk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.cardiffars.org.uk/info/equipment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/events/</loc>
   </url>
   
   <url>
@@ -61,26 +77,7 @@
   </url>
   
   <url>
-    <loc>https://www.cardiffars.org.uk/categories/projects/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cardiffars.org.uk/tags/radio/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cardiffars.org.uk/tags/rdf/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cardiffars.org.uk/tags/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   

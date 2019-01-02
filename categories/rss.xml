@@ -13,14 +13,5 @@
 	<atom:link href="https://www.cardiffars.org.uk/categories/rss.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Projects</title>
-      <link>https://www.cardiffars.org.uk/categories/projects/</link>
-      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
-      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
-      <guid>https://www.cardiffars.org.uk/categories/projects/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
