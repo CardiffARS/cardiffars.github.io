@@ -25,3 +25,5 @@ We have a leadership committee which keeps the wheels turning:
 To contact us off the air for any reason, you can send email to officers@cardiffars.org.uk or directly to one of us at \<position\>@cardiffars.org.uk
 
 QSL cards are welcome, and we will make every effort to reciprocate!
+
+Our Constitution can be found [here](/info/Constitution.pdf).
