@@ -151,6 +151,11 @@ menu:
           parent: "projects"
           weight: 301
 
+        - name: "Es'hail 2 Satellite"
+          url: "projects/eshail2"
+          parent: "projects"
+          weight: 302
+
         - name: "Club Info"
           url: "info/"
           identifier: "info"
