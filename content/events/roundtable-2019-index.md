@@ -42,6 +42,12 @@ CUARS will be hosting a meeting of the [UK Microwave Group](http://www.microwave
 
 </script>
 
+> Queen's Building  
+> 5 The Parade  
+> CF24 3AA  
+> Cardiff
+
+
 ## Call for Participation
 
 If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with the event please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.
