@@ -10,16 +10,11 @@ categories: ['projects']
 
 Es'hail 2 is a communications satellite recently launched by the Qatar Satellite Company which carries an Amateur Radio transponder capable of both narrowband and wideband modes. This transponder was designed by both the [Qatar Amateur Radio Society](https://en.wikipedia.org/wiki/Qatar_Amateur_Radio_Society) and [AMSAT Deutschland](https://amsat-dl.org/). Detailed information can be found on their [project page](https://amsat-dl.org/eshail-2-amsat-phase-4-a).
 
-<div class="columns is-vcentered">
-  <div class="column">
-{{< figure src="/projects/Eshail-2x.jpg" >}}
-  </div>
-  <div class="column">
-{{< figure src="/projects/P4-A-Coverage-with-Elevation.png" >}}
-  </div>
-</div>
+{{< figure src="/projects/Eshail-2x.jpg" width="75%" >}}
 
 The transponder has a very broad coverage and will allow us to have audio and video conversations with all of Europe, Africa, and much of western Asia. The UK is well within the coverage area which should mean that we have a very reliable link. 
+
+{{< figure src="/projects/P4-A-Coverage.png" width="75%" >}}
 
 ## Groundstation
 
