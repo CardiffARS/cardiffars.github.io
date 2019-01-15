@@ -27,8 +27,8 @@ Time    | Event    | Description
 13:30   | Talk 3   |  
 14:10   | Talk 4   | 
 14:50   | Break    | 
-15:15   | Talk 5   |
-15:55   | Talk 6   |
+15:15   | Talk 5   | [Transistor Modeling for PA design](/events/2019/roundtable/program#)
+15:55   | Talk 6   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals)
 16:35   | Break    | 
 16:50   | Talk 7   |
 17:30   | Closing remarks
@@ -41,5 +41,16 @@ Time    | Event    | Description
 
 Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
 
+### Transistor Modeling for PA design
+Zack Costello
 
+### Advanced high efficiency power amplifier architectures for modern signals
+David Collins - 2E0LXD
 
+The power amplifier is often the largest consumer of energy in a radio system. So obtaining a high efficiency from the power amplifier is often a critical design criteria, especially when the system being designed is for portable applications where; low power consumption, compact design and thermal management are key.
+
+Designing a power amplifier for high efficiency can be challenging, especially at microwave and mm wave frequencies and where other important design criteria such as linearity and maintaining high output power have to be considered. Often this leads to trade-offs and compromises having to be made. 
+
+Doherty back in the 1930’s was the first to come up with a PA architecture that maintained high efficiency with non-constant envelope signals, in his case, MW AM broadcast transmitters. Since then modern digital modulation schemes such as OFDM and APSK (used in DVB) that have high peak to average power ratios and require high linearity have driven the research and design of high efficiency PA architectures.
+
+This talk introduce the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures will be discussed and key design methodologies presented.
