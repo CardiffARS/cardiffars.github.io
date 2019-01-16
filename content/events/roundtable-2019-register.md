@@ -11,6 +11,7 @@ slug: 2019/roundtable/register
         <li><a href="/events/2019/roundtable">About</a></li>
         <li><a href="/events/2019/roundtable/program">Program</a></li>
         <li><a href="/events/2019/roundtable/dinner">Dinner</a></li>
+        <li><a href="/events/2019/roundtable/venue">Venue</a></li>
         <li class="is-active"><a>Register</a></li>
     </ul>
 </div>

@@ -11,6 +11,7 @@ slug: 2019/roundtable/program
         <li><a href="/events/2019/roundtable">About</a></li>
         <li class="is-active"><a>Program</a></li>
         <li><a href="/events/2019/roundtable/dinner">Dinner</a></li>
+        <li><a href="/events/2019/roundtable/venue">Venue</a></li>
         <li><a href="/events/2019/roundtable/register">Register</a></li>
     </ul>
 </div>
@@ -27,7 +28,7 @@ Time    | Event    | Description
 13:30   | Talk 3   |  
 14:10   | Talk 4   | 
 14:50   | Break    | 
-15:15   | Talk 5   | [Transistor Modeling for PA design](/events/2019/roundtable/program#)
+15:15   | Talk 5   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
 15:55   | Talk 6   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals)
 16:35   | Break    | 
 16:50   | Talk 7   |
@@ -41,8 +42,14 @@ Time    | Event    | Description
 
 Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
 
-### Transistor Modeling for PA design
+### RF Power Amplifier Design Considerations for Amateur Radio 
 Zack Costello
+
+Modern RF power amplifier design typically involves extensive use of computer-aided design (CAD) tools, minimising the time and cost associated with prototyping. Use of RF test and measurement equipment is also an essential element of the design flow to verify performance and identify issues that may arise.
+
+Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
+
+This talk will discuss PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
 
 ### Advanced high efficiency power amplifier architectures for modern signals
 David Collins - 2E0LXD
