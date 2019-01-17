@@ -33,3 +33,9 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * Peter Harston - GW4JQP
 * Glyn Jones - GW0ANA
 * Tim Clark - MW0RUD
+* Dave Dibley - G4RGK
+* David Robinson - G4FRE
+* John Worsnop - G4BAO
+* Dave Austen - G1EHF
+* Barry Lewis - G4SJH
+* Graham Kimbell - G3TCT
