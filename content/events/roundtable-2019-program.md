@@ -26,7 +26,7 @@ Time    | Event    | Description
 11:30   | Talk 2   | [Digital Pre-Distortion](/events/2019/roundtable/program#digital-pre-distortion-introduction-and-use)
 12:10   | Break    | Measurements, project demos, etc
 12:30   | Lunch    | Buffet at the University
-13:30   | Talk 3   |  
+13:30   | Talk 3   | [Amateur Television on the Microwave Bands](/events/2019/roundtable/program#amateur-television-on-the-microwave-bands)
 14:10   | Talk 4   | 
 14:50   | Break    | 
 15:15   | Talk 5   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
@@ -39,9 +39,16 @@ Time    | Event    | Description
 ## Talks
 
 ### Digital Pre-Distortion: Introduction and use
-**[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA**
+[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA
 
 Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
+
+### Amateur Television on the Microwave Bands
+[Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ
+
+Description coming soon!
+
+{{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
 
 ### RF Power Amplifier Design Considerations for Amateur Radio 
 Zack Costello
