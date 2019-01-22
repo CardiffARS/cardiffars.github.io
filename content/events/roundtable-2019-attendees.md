@@ -22,6 +22,8 @@ slug: 2019/roundtable/attendees
 
 We look forward to seeing everyone at the event. Attendees who have opted-in to being listed online are included here. The list will be updated at least each week.
 
+{{% columns %}}
+{{% column %}}
 * Noel Matthews - G8GTZ
 * Richard Brown - G8JVM
 * Adrian Whatmore - G4UVZ
@@ -31,6 +33,10 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * Zack Costello
 * David Collins - 0E2LXD
 * Peter Harston - GW4JQP
+
+{{% /column %}}
+{{% column %}}
+  
 * Glyn Jones - GW0ANA
 * Tim Clark - MW0RUD
 * Dave Dibley - G4RGK
@@ -39,3 +45,6 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * Dave Austen - G1EHF
 * Barry Lewis - G4SJH
 * Graham Kimbell - G3TCT
+
+{{% /column %}}
+{{% /columns %}}
