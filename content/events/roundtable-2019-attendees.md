@@ -33,6 +33,7 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * Zack Costello
 * David Collins - 0E2LXD
 * Peter Harston - GW4JQP
+* David Butler - G4ASR
 
 {{% /column %}}
 {{% column %}}
@@ -45,6 +46,10 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * Dave Austen - G1EHF
 * Barry Lewis - G4SJH
 * Graham Kimbell - G3TCT
+* Peter Day - G3PHO
+* Rob Chipperfield - M0VFC
+* Peter Barnes - M0SWN
+* Dan McGraw - M0WUT
 
 {{% /column %}}
 {{% /columns %}}
