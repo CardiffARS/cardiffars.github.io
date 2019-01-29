@@ -27,7 +27,7 @@ Time    | Event    | Description
 12:10   | Break    | Measurements, project demos, etc
 12:30   | Lunch    | Buffet at the University
 13:30   | Talk 3   | [Amateur Television on the Microwave Bands](/events/2019/roundtable/program#amateur-television-on-the-microwave-bands)
-14:10   | Talk 4   | 
+14:10   | Talk 4   | [Amateur Optical Communications](/events/2019/roundtable/program#amateur-optical-communications) 
 14:50   | Break    | 
 15:15   | Talk 5   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
 15:55   | Talk 6   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals)
@@ -58,6 +58,11 @@ Modern RF power amplifier design typically involves extensive use of computer-ai
 Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
 
 This talk will discuss PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
+
+### Amateur Optical Communications
+Barry Chambers - G8AGN
+
+This talk outlines what equipment is required for transmitting and receiving lightwave signals, how to build effective antennas, coping with QRM, operating techniques and modes and current DX records. 
 
 ### Advanced high efficiency power amplifier architectures for modern signals
 David Collins - 2E0LXD

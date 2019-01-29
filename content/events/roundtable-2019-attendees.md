@@ -24,6 +24,7 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 
 {{% columns %}}
 {{% column %}}
+
 * Noel Matthews - G8GTZ
 * Richard Brown - G8JVM
 * Adrian Whatmore - G4UVZ
@@ -34,6 +35,7 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 * David Collins - 0E2LXD
 * Peter Harston - GW4JQP
 * David Butler - G4ASR
+* Barry Chambers - G8AGN
 
 {{% /column %}}
 {{% column %}}
