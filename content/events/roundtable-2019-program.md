@@ -32,11 +32,16 @@ Time    | Event    | Description
 15:15   | Talk 5   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
 15:55   | Talk 6   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals)
 16:35   | Break    | 
-16:50   | Talk 7   |
+16:50   | Talk 7   | [Microwave Moonbounce Communication](/events/2019/roundtable/program#microwave-moonbounce-communication)
 17:30   | Closing remarks
 18:30 - 21:00 | [Dinner](/events/2019/roundtable/dinner)
 
 ## Talks
+
+### Microwave Moonbounce Communication
+Peter Blair - G3LFT
+
+The talk will briefly cover the history of this fascinating mode of radio communication from WW2 to the present.  It will describe the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations will be illustrated together with an outline of measurements and tools to assess their performance.
 
 ### Digital Pre-Distortion: Introduction and use
 [Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA
