@@ -141,6 +141,12 @@ menu:
           parent: "Events"
           weight: 201 
 
+        - name: "Hidden Transmitter Hunt"
+          url: "events/2019/giag-ardf"
+          identifer: "giag-ardf"
+          parent: "Events"
+          weight: 202 
+
         - name: "Projects"
           url: "projects/"
           Identifier: "projects"

@@ -6,9 +6,9 @@ layout: single
 slug: events 
 ---
 
-## Direction Finding Treasure Hunt
+## [Direction Finding Treasure Hunt](/events/2019/giag-ardf)
 
-In February as part of the spring students activity fair we will be running a direction finding event. Several small transmitters will be hidden around Bute Park and the challenge is to locate them all using directional antennas.
+On Wednesday February 13th we will be running a direction finding event. Several small transmitters will be hidden around Bute Park and the challenge is to locate them all using directional antennas.
 
 ## [Microwave Roundtable](/events/2019/roundtable)
 
