@@ -32,5 +32,14 @@
       <description>Direction Finding (DF) is an international competative sport where a team or individual has to locate a number of hidden transmitters using basic equipment, namely: a receiver, directional antenna and (usually) a map.</description>
     </item>
     
+    <item>
+      <title>Repeaters</title>
+      <link>https://www.cardiffars.org.uk/projects/repeaters/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/projects/repeaters/</guid>
+      <description>Repeaters provide a convenient way for low power portable radios to be used to talk over a wide area by, unsuprisingly, repeating the signals.</description>
+    </item>
+    
   </channel>
 </rss>
