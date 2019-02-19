@@ -39,7 +39,7 @@ Time    | Event    | Description
 ## Talks
 
 ### Microwave Moonbounce Communication
-Peter Blair - G3LFT
+Peter Blair - G3LTF
 
 The talk will briefly cover the history of this fascinating mode of radio communication from WW2 to the present.  It will describe the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations will be illustrated together with an outline of measurements and tools to assess their performance.
 
@@ -51,7 +51,7 @@ Digital Pre-Distortion is a powerful technique to reduce the distortion and loss
 ### Amateur Television on the Microwave Bands
 [Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ
 
-Description coming soon!
+Noel will give an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz.  The talk will give an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
 
 {{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
 
