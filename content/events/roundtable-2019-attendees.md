@@ -25,40 +25,50 @@ We look forward to seeing everyone at the event. Attendees who have opted-in to 
 {{% columns %}}
 {{% column %}}
 
-* Noel Matthews - G8GTZ
-* Richard Bown - G8JVM
 * Adrian Whatmore - G4UVZ
-* Derek Kozel - MW0LNA
-* Paul Nickalls - G8AQA
-* Heather Lomond - M0HMO
-* Zack Costello
-* David Collins - 2E0LXD
-* Peter Harston - GW4JQP
-* David Butler - G4ASR
 * Barry Chambers - G8AGN
-* Mike Busson - GW8MER
-* Rob Barter - M0ZAF
+* Barry Lewis - G4SJH
+* Brian Greenaway - G3THQ
+* Dale Robin - 2W0ODS
+* Dan McGraw - M0WUT
+* Dave Austen - G1EHF
+* Dave Dibley - G4RGK
+* Dave Fielding - G8KHU
+* Dave Haynes - G1TVL
+* David Edwards - G8BFV
+* David Robinson - G4FRE
+* Derek Kozel - MW0LNA
 * Denis Stanton - G0OLX
 * Geraint Davies - GW0NDZ
-* Peter Blair - G3LTF
+* Graham Kimbell - G3TCT
+* Heather Lomond - M0HMO
+* James Davies - GW6JWD
+* John Worsnop - G4BAO
+* Mike Busson - GW8MER
 
 {{% /column %}}
 {{% column %}}
   
-* Glyn Jones - GW0ANA
-* Tim Clark - MW0RUD
-* Dave Dibley - G4RGK
-* David Robinson - G4FRE
-* John Worsnop - G4BAO
-* Dave Austen - G1EHF
-* Barry Lewis - G4SJH
-* Graham Kimbell - G3TCT
-* Peter Day - G3PHO
-* Rob Chipperfield - M0VFC
+* Neil Underwood - G4LDR
+* Noel Matthews - G8GTZ
+* Norman Pomfret - M0SXF
+* Paul Nickalls - G8AQA
 * Peter Barnes - M0SWN
-* Dan McGraw - M0WUT
-* Dale Robin - 2W0ODS
+* Peter Day - G3PHO
+* Peter Harston - GW4JQP
+* Richard Bown - G8JVM
+* Richard Wenner
+* Rob Barter - M0ZAF
+* Rob Chipperfield - M0VFC
+* Robert Lang - GW0FJV
 * Roger Hopkins - GW4NOS
+* Stuart Robinson - GW7HPW
+* Tim Clark - MW0RUD
+* Zack Costello
+* David Collins - 2E0LXD
+* David Butler - G4ASR
+* Peter Blair - G3LTF
+* Glyn Jones - GW0ANA
 
 {{% /column %}}
 {{% /columns %}}
