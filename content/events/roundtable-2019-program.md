@@ -21,20 +21,42 @@ slug: 2019/roundtable/program
 
 Time    | Event    | Description
 --------|----------|---
+9:30    | Doors open
 10:30   | Welcome  
-10:40   | Talk 1   | 
-11:30   | Talk 2   | [Digital Pre-Distortion](/events/2019/roundtable/program#digital-pre-distortion-introduction-and-use)
-12:10   | Break    | Measurements, project demos, etc
+10:40   | Talk 1   | [Amateur Television on the Microwave Bands](/events/2019/roundtable/program#amateur-television-on-the-microwave-bands)
+11:15   | Talk 2   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
+11:50   | Break    | Measurements, project demos, etc
 12:30   | Lunch    | Buffet at the University
-13:30   | Talk 3   | [Amateur Television on the Microwave Bands](/events/2019/roundtable/program#amateur-television-on-the-microwave-bands)
-14:10   | Talk 4   | [Amateur Optical Communications](/events/2019/roundtable/program#amateur-optical-communications) 
-14:50   | Break    | 
-15:15   | Talk 5   | [RF Power Amplifier Design Considerations](/events/2019/roundtable/program#rf-power-amplifier-design-considerations-for-amateur-radio)
-15:55   | Talk 6   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals)
-16:35   | Break    | 
-16:50   | Talk 7   | [Microwave Moonbounce Communication](/events/2019/roundtable/program#microwave-moonbounce-communication)
-17:30   | Closing remarks
+13:30   | Talk 3   | [Amateur Optical Communications](/events/2019/roundtable/program#amateur-optical-communications)
+14:05   | Talk 4   | [Advanced High Efficiency PAs](/events/2019/roundtable/program#advanced-high-efficiency-power-amplifier-architectures-for-modern-signals) 
+14:40   | Break    | 
+15:20   | Talk 5   | [Microwave Moonbounce Communication](/events/2019/roundtable/program#microwave-moonbounce-communication)
+15:55   | Talk 6   | [Digital Pre-Distortion](/events/2019/roundtable/program#digital-pre-distortion-introduction-and-use)
+16:30   | Closing remarks | ~5 minutes
+17:00   | Venue Closes | Moving to a pub until dinner
 18:30 - 21:00 | [Dinner](/events/2019/roundtable/dinner)
+
+## Breaks
+
+The ENGIN Forum will be open all day and have refreshments during breaks. There are five booths currently expected, if you want to bring items to show or to sell please let us know (officers@cardiffars.org.uk).
+
+* Kevin G3AAF - http://www.rfdesign.co.uk/
+* David G4ASR - Surplus microwave equipment from individual components, connectors, modules to 100w 6cm sspa's
+* Peter G3PHO - Misc microwave components, PC boards, and waveguide items
+* British Amateur TV Club - https://batc.org.uk
+* UK Radio Amateur Astronomy - https://www.ukraa.com & http://www.britastro.org/radio/
+
+There will be a variety of microwave test equipment setup to make measurements of attendees items. If you have any equipment you can bring, please let us know.
+
+Instrument    | Range
+--------------|------
+Two port VNA |  2 MHz to 6 GHz (PAs only to 2.4 GHz and 50 Watts due to available attenuators)
+Frequency Counter |  10 Hz to 26.5 GHz
+Power Meter  | 10 MHz to 26.5 GHz
+Noise Figure | 10 MHz to 1.6 GHz (noise source to 18 GHz)
+Signal Generator | 100 kHz to 40 GHz (Two tone capable)
+Rubidium | 10 MHz reference (all devices will be locked to it)
+Digital Multi Meters | 8.5 digits DC & AC current and voltage, resistance - 5.5 digit capacitance
 
 ## Talks
 
