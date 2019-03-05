@@ -51,7 +51,7 @@ CUARS will be hosting a meeting of the [UK Microwave Group](http://www.microwave
 
 ## Sponsorship
 
-We'd like to thank The Institute of Engineering and Technology for having made a donation supporting some of the costs of running the event.
+We'd like to thank The Institution of Engineering and Technology for having made a donation supporting some of the costs of running the event.
 
 {{< figure src="events/iet_logo.jpg" width="75%" >}}
 
