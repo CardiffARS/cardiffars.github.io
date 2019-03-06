@@ -40,7 +40,7 @@ Time    | Event    | Description
 
 The ENGIN Forum will be open all day and have refreshments during breaks. There are five booths currently expected, if you want to bring items to show or to sell please let us know (officers@cardiffars.org.uk).
 
-* Kevin G3AAF - http://www.rfdesign.co.uk/
+* Kevin G3AAF - http://g8fek.com
 * David G4ASR - Surplus microwave equipment from individual components, connectors, modules to 100w 6cm sspa's
 * Peter G3PHO - Misc microwave components, PC boards, and waveguide items
 * British Amateur TV Club - https://batc.org.uk
