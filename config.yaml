@@ -166,6 +166,12 @@ menu:
           url: "info/"
           identifier: "info"
           weight: 40
+        
+        - name: "About"
+          url: "info/"
+          identifier: "about"
+          parent: "info"
+          weight: 400
 
         - name: "Equipment"
           url: "info/equipment"
