@@ -6,7 +6,7 @@ draft: false
 layout: single
 ---
 
-The Cardiff Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby as well as RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities on campus and around the UK. Currently we are applying for affiliation with the Cardiff University Students' Union.
+The Cardiff Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby as well as RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities on campus and around the UK. We are affiliated with both the Radio Society of Great Britain and the Cardiff University Students' Union.
 
 We meet in the Queen's Buildings for our regular and project sessions. 
 
