@@ -22,7 +22,7 @@ slug: 2019/roundtable/register
 We request that you pre-register so we can accurately judge the amount of food and beverages to have on hand and so we can reserve enough space at dinner.
 
 <div class="notification is-info">
-Please note that we will be collecting cash for both the roundtable and the dinner at check-in. The Roundtable is £10 and the dinner is expected to be £25 (final amount coming soon!).
+Please note that we will be collecting cash for both the roundtable and the dinner at check-in. The Roundtable is £10 and the dinner is approximately £25, see the <a href="/events/2019/roundtable/dinner">dinner</a> page.
 </div>
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/cardiffars/Roundtable2019/widget/v1.css">

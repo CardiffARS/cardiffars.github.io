@@ -21,8 +21,9 @@ slug: 2019/roundtable/dinner
 
 There will be a group dinner in the evening from 18:30 to 21:00 at [Valentino's](https://www.valentinocardiff.com/), a nearby Italian restaurant within easy walking distance of the main venue.
 
-Because of the unfortunately timed rugby match the menu is somewhat reduced.
+Because of the unfortunately timed rugby match the menu is somewhat reduced and fixed price was not possible.
 
+<a class="button is-link" href="/events/Valentinos_Dinner_Menu.pdf">Dinner Menu</a>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
