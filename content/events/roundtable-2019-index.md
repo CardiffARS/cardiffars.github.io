@@ -31,8 +31,8 @@ CUARS will be hosting a meeting of the [UK Microwave Group](http://www.microwave
 <div id="mapid" style="height: 400px"></div>
 
 <script>
-  var mymap = L.map('mapid').setView([51.4844,-3.17], 8);
-  var marker = L.marker([51.4844,-3.17]).addTo(mymap);
+  var mymap = L.map('mapid').setView([51.4835,-3.1717], 8);
+  var marker = L.marker([51.4835,-3.170]).addTo(mymap);
   marker.bindPopup("Cardiff University").openPopup();
 
   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
