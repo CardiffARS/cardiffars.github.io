@@ -188,6 +188,11 @@ menu:
           parent: "info"
           weight: 403
 
+        - name: "Forum"
+          url: "https://forum.cardiffars.org.uk"
+          Identifier: "forum"
+          weight: 50
+
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
 # Change default rss filename to rss.xml, layout is built in to Hugo 
