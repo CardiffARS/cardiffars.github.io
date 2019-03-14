@@ -25,6 +25,10 @@ Because of the unfortunately timed rugby match the menu is somewhat reduced and 
 
 <a class="button is-link" href="/events/Valentinos_Dinner_Menu.pdf">Dinner Menu</a>
 
+> 5 Windsor Place  
+> CF10 3BX  
+> Cardiff
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
   crossorigin=""/>
