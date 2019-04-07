@@ -66,16 +66,21 @@ Peter Blair - G3LTF
 The talk will briefly cover the history of this fascinating mode of radio communication from WW2 to the present.  It will describe the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations will be illustrated together with an outline of measurements and tools to assess their performance.
 
 ### Digital Pre-Distortion: Introduction and use
-[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA
+[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA  
 
 Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
 
+<a href="/events/2019_Derek Kozel_Digital Pre-Distortion.pdf" class="button is-link">Slides</a> 
+<a href="/events/2019_Derek Kozel_DPD Files.zip" class="button is-link">GNU Radio Files</a>
+
 ### Amateur Television on the Microwave Bands
-[Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ
+[Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ  
+
+{{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
 
 Noel will give an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz.  The talk will give an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
 
-{{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
+<a href="/events/2019_Noel Matthews_Microwave ATV.pdf" class="button is-link">Slides</a> 
 
 ### RF Power Amplifier Design Considerations for Amateur Radio 
 Zack Costello
@@ -85,6 +90,9 @@ Modern RF power amplifier design typically involves extensive use of computer-ai
 Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
 
 This talk will discuss PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
+
+<a href="/events/2019_Zack Costello_RF Power Amplifier Design Considerations.pdf" class="button is-link">Slides</a> 
+<a href="/events/2019_Zack Costello_RFPA Files.zip" class="button is-link">QUCS and Octave Files</a>
 
 ### Amateur Optical Communications
 Barry Chambers - G8AGN
