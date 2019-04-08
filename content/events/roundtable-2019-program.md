@@ -97,7 +97,24 @@ This talk will discuss PA design from an amateur radio perspective, looking at t
 ### Amateur Optical Communications
 Barry Chambers - G8AGN
 
-This talk outlines what equipment is required for transmitting and receiving lightwave signals, how to build effective antennas, coping with QRM, operating techniques and modes and current DX records. 
+This talk outlines what equipment is required for transmitting and receiving lightwave signals, how to build effective antennas, coping with QRM, operating techniques and modes and current DX records.   
+
+<a href="/events/2019_Barry Chambers_Optical Communications.pdf" class="button is-link">Slides</a>
+
+#### Additional Info
+
+* [Free Space LED Communications](http://www.barry-chambers.staff.shef.ac.uk/LED_files/led.html) - Barry Chambers, G8AGN
+* [Misc. VHF/UHF/Microwave/Light](http://www.ka7oei.com) - Clint Turner, KA7OEI 
+* [Lasers](http://www.k3pgp.org/laser.htm) - John Yurek, K3PGP
+* [The F1AVY Experiment Laser Corner](https://web.archive.org/web/20081025032143/http://www.pageperso.aol.fr/YvesF1AVY/UKINDEX.html) - Yves Garnier, F1AVY
+* [San Diego Microwave Group](http://www.ham-radio/sbms/sd)
+* [Hellschreiber Mode](http://g8haj.uk) - Graham Sharples, G8HAJ
+* [Surplus Shed](http://www.surplusshed.com) - for lenses
+* [BJOMEJAG EBay Store](http://www.ebaystores.co.uk/BJOMEJAG-EBUYER-STORE) - for optical filters 
+* [Yahoo Group on UK Nanowaves](http://groups.yahoo.com/group/UKNanowaves/)
+* [Yahoo Group on Optical DX](https://groups.yahoo.com/neo/groups/Optical_DX/info)
+* “An Arduino-based receiver noise figure alignment aid”, Barry Chambers G8AGN, RadCom, 2014
+* “Exploits in lightwave communications”, Stuart Wisher G8CYW, Practical Wireless, 2013
 
 ### Advanced high efficiency power amplifier architectures for modern signals
 David Collins - 2E0LXD
