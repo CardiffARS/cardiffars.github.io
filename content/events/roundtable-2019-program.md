@@ -38,15 +38,14 @@ Time    | Event    | Description
 
 ## Breaks
 
-The ENGIN Forum will be open all day and have refreshments during breaks. There are five booths currently expected, if you want to bring items to show or to sell please let us know (officers@cardiffars.org.uk).
+The ENGIN Forum was open all day and had refreshments during breaks. There were four booths. 
 
-* Kevin G3AAF - http://g8fek.com
 * David G4ASR - Surplus microwave equipment from individual components, connectors, modules to 100w 6cm sspa's
 * Peter G3PHO - Misc microwave components, PC boards, and waveguide items
 * British Amateur TV Club - https://batc.org.uk
 * UK Radio Amateur Astronomy - https://www.ukraa.com & http://www.britastro.org/radio/
 
-There will be a variety of microwave test equipment setup to make measurements of attendees items. If you have any equipment you can bring, please let us know.
+There was a variety of microwave test equipment setup to make measurements of attendees items.
 
 Instrument    | Range
 --------------|------
@@ -63,7 +62,7 @@ Digital Multi Meters | 8.5 digits DC & AC current and voltage, resistance - 5.5 
 ### Microwave Moonbounce Communication
 Peter Blair - G3LTF
 
-The talk will briefly cover the history of this fascinating mode of radio communication from WW2 to the present.  It will describe the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations will be illustrated together with an outline of measurements and tools to assess their performance.
+The talk briefly covers the history of this fascinating mode of radio communication from WW2 to the present. It describes the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations are illustrated together with an outline of measurements and tools to assess their performance.
 
 ### Digital Pre-Distortion: Introduction and use
 [Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA  
@@ -78,7 +77,7 @@ Digital Pre-Distortion is a powerful technique to reduce the distortion and loss
 
 {{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
 
-Noel will give an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz.  The talk will give an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
+Noel gives an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz. The talk gives an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
 
 <a href="/events/2019_Noel Matthews_Microwave ATV.pdf" class="button is-link">Slides</a> 
 
@@ -89,7 +88,7 @@ Modern RF power amplifier design typically involves extensive use of computer-ai
 
 Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
 
-This talk will discuss PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
+This talk discusses PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
 
 <a href="/events/2019_Zack Costello_RF Power Amplifier Design Considerations.pdf" class="button is-link">Slides</a> 
 <a href="/events/2019_Zack Costello_RFPA Files.zip" class="button is-link">QUCS and Octave Files</a>
@@ -125,4 +124,4 @@ Designing a power amplifier for high efficiency can be challenging, especially a
 
 Doherty back in the 1930’s was the first to come up with a PA architecture that maintained high efficiency with non-constant envelope signals, in his case, MW AM broadcast transmitters. Since then modern digital modulation schemes such as OFDM and APSK (used in DVB) that have high peak to average power ratios and require high linearity have driven the research and design of high efficiency PA architectures.
 
-This talk introduce the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures will be discussed and key design methodologies presented.
+This talk introduces the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures are discussed and key design methodologies presented.

@@ -19,7 +19,7 @@ slug: 2019/roundtable/venue
 
 ## Venue 
 
-The Roundtable is being held in the West and South Queen's Buildings of Cardiff University's engineering department.
+The Roundtable was held in the West and South Queen's Buildings of Cardiff University's engineering department.
 
 {{< figure src="/events/roundtable-2019-room.jpg">}}
 
@@ -27,11 +27,11 @@ Entrance to the buildings is in the carpark as marked by the blue label. No othe
 
 {{< figure src="/events/roundtable-2019-queens-map.jpg" caption="">}}
 
-Tea and Coffee, Lunch, trading tables, and the measurement setup will be in the ENGIN Forum.
+Tea and Coffee, Lunch, trading tables, and the measurement setup were in the ENGIN Forum.
 
 {{< figure src="/events/roundtable-2019-forum.jpg" caption="Social and Food in the ENGIN Forum">}}
 
-If you are driving, there will be some reserved spaces in the private university carpark. The entrance is off of West Grove street, use **5 The Parade CF24 3AA** in your satnav. Security will know that the Roundtable is happening, mention the Cardiff University Amateur Radio Society if they ask who is running the event.
+We were able to reserve much of the private university carpark and this accomodated all attendees who drove. The entrance is off of West Grove street, use **5 The Parade CF24 3AA** in your satnav. Security will know that the Roundtable is happening, mention the Cardiff University Amateur Radio Society if they ask who is running the event.
 
 {{< figure src="/events/roundtable-2019-queens-parking.jpg" caption="Free parking is available on-site">}}
 

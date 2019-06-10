@@ -18,7 +18,7 @@ slug: 2019/roundtable
     </ul>
 </div>
  
-CUARS will be hosting a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 16, 2019 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.
+CUARS hosted a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 16, 2019 at our campus in Cardiff. This one day event was a mix of talks, measurements, and socializing about activities in the GHz frequencies.
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -57,5 +57,5 @@ We'd like to thank The Institution of Engineering and Technology for having made
 
 ## Call for Participation
 
-If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with the event please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.
+If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with this event the next time it is run please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.
 
