@@ -64,6 +64,9 @@ Peter Blair - G3LTF
 
 The talk briefly covers the history of this fascinating mode of radio communication from WW2 to the present. It describes the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations are illustrated together with an outline of measurements and tools to assess their performance.
 
+<a href="/events/2019_Peter Blair_Microwave Moonbounce Communication.pptx" class="button is-link">Slides</a> 
+<a href="/events/2019_Derek Koir_Recordings.zip" class="button is-link">Audio Recordings</a>
+
 ### Digital Pre-Distortion: Introduction and use
 [Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA  
 
@@ -125,3 +128,5 @@ Designing a power amplifier for high efficiency can be challenging, especially a
 Doherty back in the 1930’s was the first to come up with a PA architecture that maintained high efficiency with non-constant envelope signals, in his case, MW AM broadcast transmitters. Since then modern digital modulation schemes such as OFDM and APSK (used in DVB) that have high peak to average power ratios and require high linearity have driven the research and design of high efficiency PA architectures.
 
 This talk introduces the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures are discussed and key design methodologies presented.
+
+<a href="/events/2019_David Collins_High Efficiency Power Amplifier Architectures.pptx" class="button is-link">Slides</a> 
