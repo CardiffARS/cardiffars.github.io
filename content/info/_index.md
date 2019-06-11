@@ -8,13 +8,20 @@ layout: single
 
 The Cardiff Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby as well as RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities on campus and around the UK. We are affiliated with both the Radio Society of Great Britain and the Cardiff University Students' Union.
 
-We meet in the Queen's Buildings for our regular and project sessions. 
+We meet every **Wednesday from 4-6 PM** in the Queen's Buildings for our regular and project sessions.
 
+<div class="columns is-vcentered">
+  <div class="column">
+{{< figure src="/info/QueensBuildings_Map.png" caption="Click for a larger map" link="/info/QueensBuildings_Map.pdf" >}}
+  </div>
+  <div class="column">
+{{< figure src="/info/room_door.jpg" caption="Our main operating room" >}}
+  </div>
+</div>
+
+> East 1.03  
 > 5 The Parade  
-> Cardiff  
-> CF24 3AA
-
-Currently we do not have a permanent location at the university for our equipment so meet in the Queen's Buildings. 
+> Cardiff, CF24 3AA
 
 We have a leadership committee which keeps the wheels turning:
 
