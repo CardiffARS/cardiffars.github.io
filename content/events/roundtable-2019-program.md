@@ -10,10 +10,8 @@ slug: 2019/roundtable/program
     <ul>
         <li><a href="/events/2019/roundtable">About</a></li>
         <li class="is-active"><a>Program</a></li>
-        <li><a href="/events/2019/roundtable/dinner">Dinner</a></li>
         <li><a href="/events/2019/roundtable/venue">Venue</a></li>
         <li><a href="/events/2019/roundtable/attendees">Attendees</a></li>
-        <li><a href="/events/2019/roundtable/register">Register</a></li>
     </ul>
 </div>
 
@@ -34,7 +32,7 @@ Time    | Event    | Description
 15:55   | Talk 6   | [Digital Pre-Distortion](/events/2019/roundtable/program#digital-pre-distortion-introduction-and-use)
 16:30   | Closing remarks | ~5 minutes
 17:00   | Venue Closes | Moving to a pub until dinner
-18:30 - 21:00 | [Dinner](/events/2019/roundtable/dinner)
+18:30 - 21:00 | Dinner
 
 ## Breaks
 

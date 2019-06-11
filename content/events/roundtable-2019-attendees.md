@@ -3,7 +3,6 @@ title: "Cardiff Microwave Roundtable"
 description: ""
 draft: false
 layout: single
-aliases: ["/roundtable"]
 slug: 2019/roundtable/attendees
 ---
 
@@ -11,16 +10,14 @@ slug: 2019/roundtable/attendees
     <ul>
         <li><a href="/events/2019/roundtable">About</a></li>
         <li><a href="/events/2019/roundtable/program">Program</a></li>
-        <li><a href="/events/2019/roundtable/dinner">Dinner</a></li>
         <li><a href="/events/2019/roundtable/venue">Venue</a></li>
         <li class=is-active><a>Attendees</a></li>
-        <li><a href="/events/2019/roundtable/register">Register</a></li>
     </ul>
 </div>
  
 ## Attendee List 
 
-We look forward to seeing everyone at the event. Attendees who have opted-in to being listed online are included here. The list will be updated at least each week.
+Attendees who opted-in to being listed online are included here. It was great to have so many people with a broad set of interests at the event.
 
 {{% columns %}}
 {{% column %}}
