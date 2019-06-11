@@ -15,3 +15,8 @@ For information on the licensing process and materials covered check out these p
 * [RSGB Training Resources](https://rsgb.org/main/clubs-training/training-resources/)
 * [Foundation License Syllabus](https://thersgb.org/services/education/downloads/pdf/foundation_syllabus.pdf)
 
+The Chelmsford Amateur Radio Society have a complete set of [presentations and training resources](http://g0mwt.org.uk/training/courses/index.htm) for Foundation, Intermediate and Full licenses. Essex Ham has [slides, revision materials, and videos](https://www.essexham.co.uk/train/foundation-slides/) for the Foundation license. 
+
+We recommend [Radio Tutor](https://radiotutor.uk/) as a great site for checking your knowledge using practice exams.
+
+Come along to any of our [Wednesday meetings](/about) or send an email to officers@cardiffars.org.uk if you are interested or want to know more.
