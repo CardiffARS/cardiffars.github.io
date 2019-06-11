@@ -17,27 +17,34 @@ Cardiff ARS is fortunate to have had a Software Defined Radio transceiver donate
 
 -----
 
-The society does not currently own any conventional radios and is grateful to a local Amateur Radio operator who has lent three radios to the society until we are able to get equipment of our own.
+The society received a grant from the engineering department and was able to purchase two radios with it. We are in the process of looking for additional funding for antennas, coax, etc to get the radios on the air. 
 
 -----
 
-{{<figure src="/info/kenwood_ts590s.jpg" width="75%">}}
+{{<figure src="/info/Flex6400.png" width="75%">}}
 
-## Kenwood TS-590s
+## Flex 6400 
  * Single Side Band, AM, FM, FSK, CW, DATA 
  * 1.8 MHz to 50 MHz bands
  * 100 Watts max
- * USB control and audio streaming
+ * Software Defined Radio
+ * IQ and audio network streaming
 
 -----
 
-{{<figure src="/info/kenwood_tmv7.gif" width="75%">}}
+{{<figure src="/info/kenwood_tm-d710g.jpg" width="75%">}}
 
-## Kenwood TM-V7A
+## Kenwood TM-D710GE
  * Narrowband FM
- * 144 MHz and 432 MHz bands 
+ * 144 MHz and 430 MHz bands 
  * 50 Watts max
+ * APRS and Packet Radio support
+ * Built in GPS
  * Dual receiver
+
+-----
+
+A local radio amateur has lent the society several FM handheld radios until we are able to get some of our own. These are lent to newly licensed members to get them on the air as quickly as possible.
 
 -----
 
@@ -45,5 +52,5 @@ The society does not currently own any conventional radios and is grateful to a 
 
 ## Baofeng BF-F8+
  * Narrowband FM
- * 144 MHz and 432 MHz bands
+ * 144 MHz and 430 MHz bands
  * 5 Watts max
