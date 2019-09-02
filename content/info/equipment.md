@@ -6,7 +6,7 @@ slug: equipment
 layout: single
 ---
 
-Cardiff ARS is fortunate to have had a Software Defined Radio transceiver donated to the society. We use it with GNU Radio to demonstrate RF and communication signal concepts during our info sessions and to run demonstrations at public events. Within the group it is available to anyone interested in experimenting with Digital Signal Processing or UHF and Microwave systems. 
+Cardiff University ARS is fortunate to have had a Software Defined Radio transceiver donated to the society. We use it with GNU Radio to demonstrate RF and communication signal concepts during our info sessions and to run demonstrations at public events. Within the group it is available to anyone interested in experimenting with Digital Signal Processing or UHF and Microwave systems. 
 
 {{<figure src="/info/adalm-pluto.png" width="75%">}}
 
