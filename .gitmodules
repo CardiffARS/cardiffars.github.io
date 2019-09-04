@@ -1,4 +1,4 @@
 [submodule "themes/hugo-smorg"]
 	path = themes/hugo-smorg
-    url = git@github.com:solutionroute/hugo-smorg
+    url = https://www.github.com/solutionroute/hugo-smorg
     branch = master
