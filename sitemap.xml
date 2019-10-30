@@ -23,7 +23,17 @@
   </url>
   
   <url>
+    <loc>https://www.cardiffars.org.uk/categories/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cardiffars.org.uk/projects/eshail2/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/projects/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
   </url>
   
@@ -34,6 +44,11 @@
   
   <url>
     <loc>https://www.cardiffars.org.uk/projects/repeaters/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/tags/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
   </url>
   
@@ -64,8 +79,15 @@
   </url>
   
   <url>
-    <loc>https://www.cardiffars.org.uk/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.cardiffars.org.uk/events/2020/roundtable/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/events/2020/roundtable/program/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cardiffars.org.uk/events/2020/roundtable/venue/</loc>
   </url>
   
   <url>
@@ -85,18 +107,7 @@
   </url>
   
   <url>
-    <loc>https://www.cardiffars.org.uk/projects/</loc>
-    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cardiffars.org.uk/events/2019/giag-ardf/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.cardiffars.org.uk/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://www.cardiffars.org.uk/">
-	<link rel="canonical" href="https://www.cardiffars.org.uk/events/2019/roundtable/venue/"><meta name="description" content="The homepage of the Amateur Radio Society at Cardiff University">
+	<link rel="canonical" href="https://www.cardiffars.org.uk/events/2020/roundtable/"><meta name="description" content="The homepage of the Amateur Radio Society at Cardiff University">
 	<link rel="preload" href="https://www.cardiffars.org.uk/css/smorg.min.css" as="style">
 	<link rel="stylesheet" href="https://www.cardiffars.org.uk/css/smorg.min.css">
 	<meta name="generator" content="Hugo" />
@@ -88,48 +88,49 @@
 
 <div class="tabs is-centered">
     <ul>
-        <li><a href="/events/2019/roundtable">About</a></li>
-        <li><a href="/events/2019/roundtable/program">Program</a></li>
-        <li class="is-active"><a>Venue</a></li>
-        <li><a href="/events/2019/roundtable/attendees">Attendees</a></li>
+        <li class=is-active><a>About</a></li>
+        <li><a href="/events/2020/roundtable/program">Program</a></li>
+        <li><a href="/events/2020/roundtable/venue">Venue</a></li>
     </ul>
 </div>
+ 
 
-<h2 id="venue">Venue</h2>
+<p>The Cardiff University ARS will host a meeting of the <a href="http://www.microwavers.org">UK Microwave Group</a> on Saturday March 14, 2020 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.</p>
 
-<p>The Roundtable was held in the West and South Queen&rsquo;s Buildings of Cardiff University&rsquo;s engineering department.</p>
+<p><link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/></p>
 
-<figure>
-    <img src="/events/roundtable-2019-room.jpg"/> 
-</figure>
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+  crossorigin=""></script>
 
+<div id="mapid" style="height: 400px"></div>
 
-<p>Entrance to the buildings is in the carpark as marked by the blue label. No other entrances to the buildings will be unlocked so if you are on-foot please walk around to the carpark. There are stairs and an elevator from the carpark to the ENGIN Forum on the first floor. The talks room is just next door to the Forum.</p>
+<script>
+  var mymap = L.map('mapid').setView([51.4835,-3.1717], 8);
+  var marker = L.marker([51.4835,-3.170]).addTo(mymap);
+  marker.bindPopup("Cardiff University").openPopup();
 
-<figure>
-    <img src="/events/roundtable-2019-queens-map.jpg"/> 
-</figure>
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1IjoiY2FyZGlmZmFycyIsImEiOiJjanFvMGpvZDUwYXNtNDhwc21qZnQ0a21lIn0.d75xS1Kq8ls8pDlnAMB3gg'
+  }).addTo(mymap);
 
+</script>
 
-<p>Tea and Coffee, Lunch, trading tables, and the measurement setup were in the ENGIN Forum.</p>
+<blockquote>
+<p>Queen&rsquo;s Building<br />
+5 The Parade<br />
+CF24 3AA<br />
+Cardiff</p>
+</blockquote>
 
-<figure>
-    <img src="/events/roundtable-2019-forum.jpg"
-         alt="Social and Food in the ENGIN Forum"/> <figcaption>
-            <p>Social and Food in the ENGIN Forum</p>
-        </figcaption>
-</figure>
+<h2 id="call-for-participation">Call for Participation</h2>
 
-
-<p>We were able to reserve much of the private university carpark and this accomodated all attendees who drove. The entrance is off of West Grove street, use <strong>5 The Parade CF24 3AA</strong> in your satnav. Security will know that the Roundtable is happening, mention the Cardiff University Amateur Radio Society if they ask who is running the event.</p>
-
-<figure>
-    <img src="/events/roundtable-2019-queens-parking.jpg"
-         alt="Free parking is available on-site"/> <figcaption>
-            <p>Free parking is available on-site</p>
-        </figcaption>
-</figure>
-
+<p>If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with this event please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.</p>
 
 					
 
@@ -161,7 +162,7 @@
 { 
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
-	"@id": "https:\/\/www.cardiffars.org.uk\/events\/2019\/roundtable\/venue\/",
+	"@id": "https:\/\/www.cardiffars.org.uk\/events\/2020\/roundtable\/",
 	"name": "Cardiff Microwave Roundtable",
 }
 </script>
