@@ -3,19 +3,19 @@ title: "Cardiff Microwave Roundtable"
 description: ""
 draft: false
 layout: single
-slug: 2019/roundtable
+aliases: ["/roundtable"]
+slug: 2020/roundtable
 ---
 
 <div class="tabs is-centered">
     <ul>
         <li class=is-active><a>About</a></li>
-        <li><a href="/events/2019/roundtable/program">Program</a></li>
-        <li><a href="/events/2019/roundtable/venue">Venue</a></li>
-        <li><a href="/events/2019/roundtable/attendees">Attendees</a></li>
+        <li><a href="/events/2020/roundtable/program">Program</a></li>
+        <li><a href="/events/2020/roundtable/venue">Venue</a></li>
     </ul>
 </div>
  
-CUARS hosted a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 16, 2019 at our campus in Cardiff. This one day event was a mix of talks, measurements, and socializing about activities in the GHz frequencies.
+The Cardiff University ARS will host a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 14, 2020 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -46,13 +46,6 @@ CUARS hosted a meeting of the [UK Microwave Group](http://www.microwavers.org) o
 > CF24 3AA  
 > Cardiff
 
-## Sponsorship
-
-We'd like to thank The Institution of Engineering and Technology for having made a donation supporting some of the costs of running the event.
-
-{{< figure src="events/iet_logo.jpg" width="75%" >}}
-
 ## Call for Participation
 
-If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with this event the next time it is run please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.
-
+If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with this event please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.
