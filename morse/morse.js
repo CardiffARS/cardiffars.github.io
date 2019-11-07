@@ -10,6 +10,10 @@ window.addEventListener('touchend', stoptone);
 
 function starttone() {
   gainNode.connect(audioCtx.destination);
+  
+  audioCtx.resume().then(() => { //https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio
+    console.log('Playback resumed successfully');
+  });
 }
 
 function stoptone() {
