@@ -11,6 +11,7 @@ slug: 2020/roundtable/program
         <li><a href="/events/2020/roundtable">About</a></li>
         <li class="is-active"><a>Program</a></li>
         <li><a href="/events/2020/roundtable/venue">Venue</a></li>
+        <li><a href="/events/2020/roundtable/register">Register</a></li>
     </ul>
 </div>
 
@@ -30,10 +31,9 @@ Time    | Event    | Description
 14:05   | Talk 4   | 
 14:40   | Break    | 
 15:20   | Talk 5   | 
-15:55   | Talk 6   | 
-16:30   | Closing remarks | ~5 minutes
-17:00   | Venue Closes | Moving to a pub until dinner
-18:30 - 21:00 | Dinner
+16:00   | Closing remarks | ~5 minutes, Socializing continues
+17:00   | Venue Closes | Moving to a cafe until dinner
+18:00 - 20:30 | Dinner
 
 ## Breaks
 
