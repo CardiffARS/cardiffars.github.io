@@ -76,6 +76,14 @@ enableRobotsTXT: true
 # https://www.webpagefx.com/tools/emoji-cheat-sheet/
 enableEmoji: false
 
+# markdown
+# Hugo 0.60 moved to the Goldmark renderer
+# Raw HTML is excluded by default
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
 # Optional Features ------------------------------------------------------
 
 # $.Site.Params variables are user-definable; the Hugo-Smorg theme makes use of
