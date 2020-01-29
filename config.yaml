@@ -148,12 +148,18 @@ menu:
           identifer: "roundtable"
           parent: "Events"
           weight: 201 
+        
+        - name: "GNU Radio Workshop"
+          url: "events/2020/gnuradio-workshop"
+          identifer: "gnuradio-workshop"
+          parent: "Events"
+          weight: 202 
 
         - name: "Hidden Transmitter Hunt"
           url: "events/2019/giag-ardf"
           identifer: "giag-ardf"
           parent: "Events"
-          weight: 202 
+          weight: 203 
 
         - name: "Projects"
           url: "projects/"
