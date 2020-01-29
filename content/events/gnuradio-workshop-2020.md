@@ -16,6 +16,50 @@ Participants in the workshop will be given an RTL-SDR receiver to use and to tak
 
 If you are interested in attending the workshop please contact John at <a href="mailto:john@bravoao.co.uk">john@bravoao.co.uk</a>.
 
+## Content
+
+### Background
+
+* Basics of Sampling: Sample rates, bit depths, Nyquist limit
+* Time and Frequency domains: Using the Fourier Transform
+* Complex sampling and mixing
+* Filtering
+
+### Basics of GNU Radio
+
+* Creating flowgraphs with the standard library of blocks
+* Debugging flowgraphs
+* Sample rate and the throttle block
+* Documentation: What and where
+
+### Generating Signals
+
+* Creating, viewing, and listening to a sine wave
+* Adding and manipulating basic signals
+* Visualizing in the frequency domain
+* Using and visualizing filters
+* Demodulate an FM signal with a digital mixer
+
+### Use of hardware
+
+* Receiving and demodulating FM and SSB over the air
+* Controlling hardware from GNU Radio Companion
+* Introduction to the design of SDR transcievers
+* Overview of imperfections common to SDR transceivers
+* Demonstration of transmitting using an SDR
+
+### Extra topics
+
+As time allows:
+
+* Installing and using third-party Out of Tree modules in GNU Radio
+* Demonstration of using gr-satellites to demodulate telemetry and data from satellites
+* Sending and receiving basic digital signals
+
+#### Important Note 
+
+To be absolutely clear, this is a programming workshop, aimed at people who want to create their own SDR Applications and go beyond just installing standard SDR software and hardware. Previous programming experience is not required but will be helpful at points. Nor is previous knowledge of signals or signal processing needed, the presentations start with no assumptions but do move quickly. 
+
 ## Location
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
