@@ -20,7 +20,9 @@ The Cardiff University ARS will host a meeting of the [UK Microwave Group](http:
 
 ### GNU Radio Workshop
 
-On the following day, Sunday March 8th, there will be a hands on Introduction to GNU Radio and Software Defined Radio. More info coming soon, please send an email to officers@cardiffars.org.uk if you are interested. 
+On the following day, Sunday March 8th, there will be a hands on Introduction to GNU Radio and Software Defined Radio.
+
+<a href="/events/2020/gnuradio-workshop" class="button is-link">More Information</a>
 
 ## Location
 
