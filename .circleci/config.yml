@@ -1,4 +1,4 @@
-version: 2
+version: 2.0
 jobs:
   build:
     docker:
@@ -10,4 +10,4 @@ jobs:
       - run: ./deploy.sh
     branches:
       only:
-        - source 
+        - source
