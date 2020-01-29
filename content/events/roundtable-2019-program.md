@@ -15,6 +15,82 @@ slug: 2019/roundtable/program
     </ul>
 </div>
 
+## Talks
+
+### Microwave Moonbounce Communication
+Peter Blair - G3LTF
+
+The talk briefly covers the history of this fascinating mode of radio communication from WW2 to the present. It describes the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations are illustrated together with an outline of measurements and tools to assess their performance.
+
+<a href="/events/2019_Peter Blair_Microwave Moonbounce Communication.pptx" class="button is-link">Slides</a> 
+<a href="/events/2019_Derek Koir_Recordings.zip" class="button is-link">Audio Recordings</a>
+
+### Amateur Television on the Microwave Bands
+[Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ  
+
+{{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
+
+Noel gives an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz. The talk gives an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
+
+<a href="https://www.youtube.com/watch?v=p8XETrmqUOE" class="button is-info">Video</a>
+<a href="/events/2019_Noel Matthews_Microwave ATV.pdf" class="button is-link">Slides</a> 
+
+### RF Power Amplifier Design Considerations for Amateur Radio 
+Zack Costello - M0ZYC
+
+Modern RF power amplifier design typically involves extensive use of computer-aided design (CAD) tools, minimising the time and cost associated with prototyping. Use of RF test and measurement equipment is also an essential element of the design flow to verify performance and identify issues that may arise.
+
+Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
+
+This talk discusses PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
+
+<a href="https://www.youtube.com/watch?v=OMB-yu89CD8" class="button is-info">Video</a>
+<a href="/events/2019_Zack Costello_RF Power Amplifier Design Considerations.pdf" class="button is-link">Slides</a> 
+<a href="/events/2019_Zack Costello_RFPA Files.zip" class="button is-link">QUCS and Octave Files</a>
+
+### Amateur Optical Communications
+Barry Chambers - G8AGN
+
+This talk outlines what equipment is required for transmitting and receiving lightwave signals, how to build effective antennas, coping with QRM, operating techniques and modes and current DX records.   
+
+<a href="https://www.youtube.com/watch?v=lydOX3uUZug" class="button is-info">Video</a>
+<a href="/events/2019_Barry Chambers_Optical Communications.pdf" class="button is-link">Slides</a>
+
+#### Additional Info
+
+* [Free Space LED Communications](http://www.barry-chambers.staff.shef.ac.uk/LED_files/led.html) - Barry Chambers, G8AGN
+* [Misc. VHF/UHF/Microwave/Light](http://www.ka7oei.com) - Clint Turner, KA7OEI 
+* [Lasers](http://www.k3pgp.org/laser.htm) - John Yurek, K3PGP
+* [The F1AVY Experiment Laser Corner](https://web.archive.org/web/20081025032143/http://www.pageperso.aol.fr/YvesF1AVY/UKINDEX.html) - Yves Garnier, F1AVY
+* [San Diego Microwave Group](http://www.ham-radio/sbms/sd)
+* [Hellschreiber Mode](http://g8haj.uk) - Graham Sharples, G8HAJ
+* [Surplus Shed](http://www.surplusshed.com) - for lenses
+* [BJOMEJAG EBay Store](http://www.ebaystores.co.uk/BJOMEJAG-EBUYER-STORE) - for optical filters 
+* [Yahoo Group on UK Nanowaves](http://groups.yahoo.com/group/UKNanowaves/)
+* [Yahoo Group on Optical DX](https://groups.yahoo.com/neo/groups/Optical_DX/info)
+* “An Arduino-based receiver noise figure alignment aid”, Barry Chambers G8AGN, RadCom, 2014
+* “Exploits in lightwave communications”, Stuart Wisher G8CYW, Practical Wireless, 2013
+
+### Advanced high efficiency power amplifier architectures for modern signals
+David Collins - 2E0LXD
+
+The power amplifier is often the largest consumer of energy in a radio system. So obtaining a high efficiency from the power amplifier is often a critical design criteria, especially when the system being designed is for portable applications where; low power consumption, compact design and thermal management are key.
+
+Designing a power amplifier for high efficiency can be challenging, especially at microwave and mm wave frequencies and where other important design criteria such as linearity and maintaining high output power have to be considered. Often this leads to trade-offs and compromises having to be made. 
+
+Doherty back in the 1930’s was the first to come up with a PA architecture that maintained high efficiency with non-constant envelope signals, in his case, MW AM broadcast transmitters. Since then modern digital modulation schemes such as OFDM and APSK (used in DVB) that have high peak to average power ratios and require high linearity have driven the research and design of high efficiency PA architectures.
+
+This talk introduces the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures are discussed and key design methodologies presented.
+
+<a href="/events/2019_David Collins_High Efficiency Power Amplifier Architectures.pptx" class="button is-link">Slides</a> 
+
+### Digital Pre-Distortion: Introduction and use
+[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA  
+
+Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
+
+<a href="/events/2019_Derek Kozel_Digital Pre-Distortion.pdf" class="button is-link">Slides</a> 
+<a href="/events/2019_Derek Kozel_DPD Files.zip" class="button is-link">GNU Radio Files</a>
 ## March 16, 2019
 
 Time    | Event    | Description
@@ -55,76 +131,3 @@ Signal Generator | 100 kHz to 40 GHz (Two tone capable)
 Rubidium | 10 MHz reference (all devices will be locked to it)
 Digital Multi Meters | 8.5 digits DC & AC current and voltage, resistance - 5.5 digit capacitance
 
-## Talks
-
-### Microwave Moonbounce Communication
-Peter Blair - G3LTF
-
-The talk briefly covers the history of this fascinating mode of radio communication from WW2 to the present. It describes the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations are illustrated together with an outline of measurements and tools to assess their performance.
-
-<a href="/events/2019_Peter Blair_Microwave Moonbounce Communication.pptx" class="button is-link">Slides</a> 
-<a href="/events/2019_Derek Koir_Recordings.zip" class="button is-link">Audio Recordings</a>
-
-### Digital Pre-Distortion: Introduction and use
-[Derek Kozel](https://www.twitter.com/derekkozel) - MW0LNA  
-
-Digital Pre-Distortion is a powerful technique to reduce the distortion and loss of SNR caused by the non-linear effects of amplifiers. This talk introduces the technique and shows how it can be used with Software Defined Radios and [GNU Radio](www.gnuradio.org).
-
-<a href="/events/2019_Derek Kozel_Digital Pre-Distortion.pdf" class="button is-link">Slides</a> 
-<a href="/events/2019_Derek Kozel_DPD Files.zip" class="button is-link">GNU Radio Files</a>
-
-### Amateur Television on the Microwave Bands
-[Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ  
-
-{{< figure src="/events/batc-logo.png" width="15%" caption="British Amateur Television Club" link="https://Batc.org.uk/" >}}
-
-Noel gives an overview of his experiences of operating DATV on the Microwave bands from 3.4GHz to 76GHz. The talk gives an overview of the system architectures used and lessons learnt, particularly the importance of low phase LO chains when operating DATV.
-
-<a href="/events/2019_Noel Matthews_Microwave ATV.pdf" class="button is-link">Slides</a> 
-
-### RF Power Amplifier Design Considerations for Amateur Radio 
-Zack Costello
-
-Modern RF power amplifier design typically involves extensive use of computer-aided design (CAD) tools, minimising the time and cost associated with prototyping. Use of RF test and measurement equipment is also an essential element of the design flow to verify performance and identify issues that may arise.
-
-Commercial RF CAD packages and, in particular, measurement equipment are often unavailable to amateur radio operators due to both cost limitations and the necessary technical training required to effectively use these tools.
-
-This talk discusses PA design from an amateur radio perspective, looking at the fundamentals of PA design, the capabilities of current open-source RF CAD software, and highlighting some points of interest within the design flow.
-
-<a href="/events/2019_Zack Costello_RF Power Amplifier Design Considerations.pdf" class="button is-link">Slides</a> 
-<a href="/events/2019_Zack Costello_RFPA Files.zip" class="button is-link">QUCS and Octave Files</a>
-
-### Amateur Optical Communications
-Barry Chambers - G8AGN
-
-This talk outlines what equipment is required for transmitting and receiving lightwave signals, how to build effective antennas, coping with QRM, operating techniques and modes and current DX records.   
-
-<a href="/events/2019_Barry Chambers_Optical Communications.pdf" class="button is-link">Slides</a>
-
-#### Additional Info
-
-* [Free Space LED Communications](http://www.barry-chambers.staff.shef.ac.uk/LED_files/led.html) - Barry Chambers, G8AGN
-* [Misc. VHF/UHF/Microwave/Light](http://www.ka7oei.com) - Clint Turner, KA7OEI 
-* [Lasers](http://www.k3pgp.org/laser.htm) - John Yurek, K3PGP
-* [The F1AVY Experiment Laser Corner](https://web.archive.org/web/20081025032143/http://www.pageperso.aol.fr/YvesF1AVY/UKINDEX.html) - Yves Garnier, F1AVY
-* [San Diego Microwave Group](http://www.ham-radio/sbms/sd)
-* [Hellschreiber Mode](http://g8haj.uk) - Graham Sharples, G8HAJ
-* [Surplus Shed](http://www.surplusshed.com) - for lenses
-* [BJOMEJAG EBay Store](http://www.ebaystores.co.uk/BJOMEJAG-EBUYER-STORE) - for optical filters 
-* [Yahoo Group on UK Nanowaves](http://groups.yahoo.com/group/UKNanowaves/)
-* [Yahoo Group on Optical DX](https://groups.yahoo.com/neo/groups/Optical_DX/info)
-* “An Arduino-based receiver noise figure alignment aid”, Barry Chambers G8AGN, RadCom, 2014
-* “Exploits in lightwave communications”, Stuart Wisher G8CYW, Practical Wireless, 2013
-
-### Advanced high efficiency power amplifier architectures for modern signals
-David Collins - 2E0LXD
-
-The power amplifier is often the largest consumer of energy in a radio system. So obtaining a high efficiency from the power amplifier is often a critical design criteria, especially when the system being designed is for portable applications where; low power consumption, compact design and thermal management are key.
-
-Designing a power amplifier for high efficiency can be challenging, especially at microwave and mm wave frequencies and where other important design criteria such as linearity and maintaining high output power have to be considered. Often this leads to trade-offs and compromises having to be made. 
-
-Doherty back in the 1930’s was the first to come up with a PA architecture that maintained high efficiency with non-constant envelope signals, in his case, MW AM broadcast transmitters. Since then modern digital modulation schemes such as OFDM and APSK (used in DVB) that have high peak to average power ratios and require high linearity have driven the research and design of high efficiency PA architectures.
-
-This talk introduces the techniques and concepts for high efficiency power amplifier design. Some advanced PA architectures are discussed and key design methodologies presented.
-
-<a href="/events/2019_David Collins_High Efficiency Power Amplifier Architectures.pptx" class="button is-link">Slides</a> 
