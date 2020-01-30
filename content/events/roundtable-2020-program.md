@@ -18,7 +18,7 @@ slug: 2020/roundtable/program
 
 The schedule is still being finalized but the following times and structure are expected to be representative. We recommend looking at last year's [schedule](/events/2019/roundtable/program) to see the type of talks which happened.
 
-## March 14, 2020
+## March 7, 2020
 
 Time    | Event    | Description
 --------|----------|---

@@ -23,7 +23,7 @@ Attendees who have opted-in to being listed online are included here.
 {{% columns %}}
 {{% column %}}
 
-* Dave Collins - 2W0LDX
+* Dave Collins - 2W0LXD
 * Derek Kozel - MW0LNA
 * Heather Lomond - M0HMO
 * Barry Lewis - G4SJH
