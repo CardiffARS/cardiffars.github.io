@@ -25,16 +25,28 @@ Time    | Event    | Description
 9:30    | Doors open
 10:30   | Welcome  
 10:40   | Talk 1   | 
-11:15   | Talk 2   | 
+11:15   | Talk 2   | Transistor Load Lines at Home
 11:50   | Break    | Measurements, project demos, etc
 12:30   | Lunch    | Buffet at the University
-13:30   | Talk 3   | 
+13:30   | Talk 3   | Building a 1.3 GHz Beacon 
 14:05   | Talk 4   | 
 14:40   | Break    | 
 15:20   | Talk 5   | 
 16:00   | Closing remarks | ~5 minutes, Socializing continues
 17:00   | Venue Closes | Moving to a cafe until dinner
 18:00 - 20:30 | Dinner
+
+## Talks
+
+### Building a 1.3 GHz beacon for Cardiff
+Ahmed Kamal and Shem Kalele
+
+Third year students in Cardiff University's Electronics Engineering program complete a course in which they design and build a project. Ahmed has been implementing the PI4 beacon modulation in Python and GNU Radio to be transmitted from an Analog Devices ADALM PLUTO SDR. Shem is designing a 25 Watt amplifier using a Cree GaN transistor. They'll give a report on the progress and learning experience..
+
+### Transistor Load Lines at Home 
+Alex Alt
+
+The Current-Voltage load line of a transitor tells you lots of information about how it will perform in an amplifier, but often aren't included in datasheets. Learn what these useful measurements mean and how to take them using simple equipment.
 
 ## Breaks
 

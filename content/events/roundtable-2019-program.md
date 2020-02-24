@@ -22,8 +22,10 @@ Peter Blair - G3LTF
 
 The talk briefly covers the history of this fascinating mode of radio communication from WW2 to the present. It describes the physical factors that influence the signal path from earth to moon and back and how these are countered. Some typical amateur installations are illustrated together with an outline of measurements and tools to assess their performance.
 
+<a href="https://www.youtube.com/watch?v=XIJ8yaYKyww" class="button is-info">Video</a>
 <a href="/events/2019_Peter Blair_Microwave Moonbounce Communication.pptx" class="button is-link">Slides</a> 
 <a href="/events/2019_Derek Koir_Recordings.zip" class="button is-link">Audio Recordings</a>
+
 
 ### Amateur Television on the Microwave Bands
 [Noel Matthews](https://www.twitter.com/g8gtz) - G8GTZ  

@@ -6,6 +6,12 @@ layout: single
 slug: 2020/gnuradio-workshop
 ---
 
+## Cancelled
+
+> Not enough people registered so this event has had to be delayed until a later date. If you are interested in attending a future workshop please email <a href="mailto:john@bravoao.co.uk">john@bravoao.co.uk</a>.
+
+## Workshop
+
 The Cardiff University ARS will be hosting an Introduction to GNU Radio and Software Defined Radio workshop on Sunday March 8, 2020 at our campus in Cardiff. This one day event is a mix of presentations, hands on activities, and Q&A focused on getting participants to the point of experimenting independantly. The workshop is being taught by John Worsnop G4BAO, Heather Lomond M0HMO, and Derek Kozel MW0LNA.
 
 GNU Radio is a free and open source, graphical, software development toolkit that provides signal processing blocks to implement software-defined radios and signal-processing systems. It can be used with external RF hardware to create software-defined radios, or without hardware in a simulation environment. It is widely used in hobbyist, academic, and commercial environments to support both wireless communications research and real-world radio systems.
@@ -91,8 +97,3 @@ To be absolutely clear, this is a programming workshop, aimed at people who want
 > CF24 3AA  
 > Cardiff
 
-## UK Microwave Group Roundtable 
-
-On the previous day, Saturday March 7th, there will be a hands on Introduction to GNU Radio and Software Defined Radio. Checkout the main event page for more information and to register.
-
-<a href="/events/2020/roundtable" class="button is-link">Cardiff Roundtable</a>

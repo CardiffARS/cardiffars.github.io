@@ -1,25 +1,31 @@
 ---
-title: "Cardiff Microwave Roundtable"
+title: "Train the Trainers"
 description: ""
 draft: false
 layout: single
-aliases: ["/roundtable"]
-slug: 2020/roundtable
+slug: 2020/train-the-trainers
 ---
 
-<div class="tabs is-centered">
-    <ul>
-        <li class=is-active><a>About</a></li>
-        <li><a href="/events/2020/roundtable/program">Program</a></li>
-        <li><a href="/events/2020/roundtable/venue">Venue</a></li>
-        <li><a href="/events/2020/roundtable/attendees">Attendees</a></li>
-        <li><a href="/events/2020/roundtable/register">Register</a></li>
-    </ul>
-</div>
- 
-The Cardiff University ARS will host a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 7, 2020 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.
+The RSGB will be running a Train the Trainers one day course in Cardiff on Saturday, April 18th. The event will be hosted by the Cardiff University ARS in the Engineering and Computer Science building.
 
-<a href="/events/2020/gnuradio-workshop" class="button is-link">More Information</a>
+## Summary
+
+Trainers on amateur radio courses need to deliver content to students from a wide age range and to an audience that has vastly different levels of knowledge and abilities. In light of these challenges trainers do a great job despite many not coming from a professional teaching background.
+
+During the course participants will cover the following subject areas:
+
+* Ways students learn – we are not all the same
+* Alternative delivery methods
+* Quick and easy lesson planning
+* Delivering the practical assessments
+* Obtaining and giving feedback
+* Supporting students after they pass
+
+For a full description of the course check the main RSGB event page: [Train the Trainers](https://rsgb.org/main/clubs-training/for-trainers/train-trainers-events/)
+
+## Join the Course
+
+Send an email to the RSGB Training team at [trainthetrainers@rsgb.org.uk](mailto:trainthetrainers@rsgb.org.uk) for more information or to signup!
 
 ## Location
 
@@ -52,6 +58,3 @@ The Cardiff University ARS will host a meeting of the [UK Microwave Group](http:
 > CF24 3AA  
 > Cardiff
 
-## Call for Participation
-
-If you are interested in giving a talk, putting up a poster, displaying a project, or otherwise being involved with this event please contact us at <a href="mailto:officers@cardiffars.org.uk">officers@cardiffars.org.uk</a>.

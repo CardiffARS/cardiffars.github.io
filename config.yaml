@@ -149,9 +149,9 @@ menu:
           parent: "Events"
           weight: 201 
         
-        - name: "GNU Radio Workshop"
-          url: "events/2020/gnuradio-workshop"
-          identifer: "gnuradio-workshop"
+        - name: "Train the Trainers Course"
+          url: "events/2020/train-the-trainers"
+          identifer: "train-the-trainers"
           parent: "Events"
           weight: 202 
 
