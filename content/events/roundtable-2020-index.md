@@ -19,7 +19,7 @@ slug: 2020/roundtable
  
 The Cardiff University ARS will host a meeting of the [UK Microwave Group](http://www.microwavers.org) on Saturday March 7, 2020 at our campus in Cardiff. This one day event is a mix of talks, measurements, and socializing about activities in the GHz frequencies.
 
-<a href="/events/2020/gnuradio-workshop" class="button is-link">More Information</a>
+<a href="/events/2020/roundtable/program" class="button is-link">More Information</a>
 
 ## Location
 
