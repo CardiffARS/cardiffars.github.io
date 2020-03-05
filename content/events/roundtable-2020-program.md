@@ -24,14 +24,15 @@ Time    | Event    | Description
 --------|----------|---
 9:30    | Doors open
 10:30   | Welcome  
-10:40   | Talk 1   | 
-11:15   | Talk 2   | Transistor Load Lines at Home
+10:40   | Talk     | 
+11:15   | Talk     | Transistor Load Lines at Home
 11:50   | Break    | Measurements, project demos, etc
 12:30   | Lunch    | Buffet at the University
-13:30   | Talk 3   | Interlacing and HD for the DATV Express
-14:05   | Talk 4   | Gallium Nitride and RF Power Devices
+13:15   | Talk     | Tracking and Measuring Distances with LoRa
+13:30   | Talk     | Interlacing and HD for the DATV Express
+14:05   | Talk     | Gallium Nitride and RF Power Devices
 14:40   | Break    | 
-15:20   | Talk 5   | Building a 1.3 GHz Beacon 
+15:20   | Talk     | Building a 1.3 GHz Beacon 
 16:00   | Closing remarks | ~5 minutes, Socializing continues
 17:00   | Venue Closes | Moving to a cafe until dinner
 18:00 - 20:30 | Dinner
@@ -53,6 +54,11 @@ Third year students in Cardiff University's Electronics Engineering program comp
 Phil Longhurst GW8BVI
 
 Interlacing is a 1930's technique which has a lot of benefits and is still in use today (1080i HD). But it is a pain to get it right and if you don't the results look terrible! Using paid s/w (Vmix) and free s/w (OBS broadcaster) it can be done if you know how. 1080i HD looks fab and can be transmitted via a mere 1MS/s DVB-S2 with low-latency h.264 (not even the latest 4K HEVC) phys channel.
+
+### Tracking and Measuring Distances with LoRa at 2.4 GHz
+Stuart Robinson GW7HPW
+
+A brief introduction to using the Semtech 2.4 GHz LoRa devices for long distance high altitude balloon tracking and measurement of distance by time of flight of a packet exchange. 
 
 ### Transistor Load Lines at Home 
 Alex Alt
