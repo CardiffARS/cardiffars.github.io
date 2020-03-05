@@ -176,6 +176,11 @@ menu:
           parent: "projects"
           weight: 302
 
+        - name: "HF Introductions"
+          url: "projects/hf-introductions"
+          parent: "projects"
+          weight: 303
+
         - name: "Club Info"
           url: "info/"
           identifier: "info"
