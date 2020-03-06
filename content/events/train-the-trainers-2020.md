@@ -27,6 +27,12 @@ For a full description of the course check the main RSGB event page: [Train the 
 
 Send an email to the RSGB Training team at [trainthetrainers@rsgb.org.uk](mailto:trainthetrainers@rsgb.org.uk) for more information or to signup!
 
+## Share the News
+
+{{< figure src="/events/2020-Train-the-Trainers.jpg" caption="Click for a larger poster" link="/events/2020-Train-the-Trainers.pdf" >}}
+
+Here's a poster to put up in your club or share around!
+
 ## Location
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
