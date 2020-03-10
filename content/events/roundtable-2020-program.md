@@ -12,42 +12,37 @@ slug: 2020/roundtable/program
         <li class="is-active"><a>Program</a></li>
         <li><a href="/events/2020/roundtable/venue">Venue</a></li>
         <li><a href="/events/2020/roundtable/attendees">Attendees</a></li>
-        <li><a href="/events/2020/roundtable/register">Register</a></li>
     </ul>
 </div>
 
-The schedule is still being finalized but the following times and structure are expected to be representative. We recommend looking at last year's [schedule](/events/2019/roundtable/program) to see the type of talks which happened.
+### An SDR based Beacon Project
 
-## March 7, 2020
+Third year students in Cardiff University's Electronics Engineering program complete a course in which they design and build a project. This year two students chose to work on a 1.3 GHz beacon which the Cardiff University ARS hopes to install on campus. They'll give a report on the progress and learning experience.
 
-Time    | Event    | Description
---------|----------|---
-9:30    | Doors open
-10:30   | Welcome  
-10:40   | Talk     | 
-11:15   | Talk     | Transistor Load Lines at Home
-11:50   | Break    | Measurements, project demos, etc
-12:30   | Lunch    | Buffet at the University
-13:15   | Talk     | Tracking and Measuring Distances with LoRa
-13:30   | Talk     | Interlacing and HD for the DATV Express
-14:05   | Talk     | Gallium Nitride and RF Power Devices
-14:40   | Break    | 
-15:20   | Talk     | Building a 1.3 GHz Beacon 
-16:00   | Closing remarks | ~5 minutes, Socializing continues
-17:00   | Venue Closes | Moving to a cafe until dinner
-18:00 - 20:30 | Dinner
+##### Designing a 1.3 GHz RF Power Amplifier
+Shem Kalele
 
-## Talks
+Shem is designing a 25 Watt, class AB amplifier using a Cree Gallium Nitride transistor. The design balances efficiency with linearity and gain.
 
-### Gallium Nitride and RF Power Devices
-Dr Khaled Elgaid FIET, SIEEE
+<a href="https://youtu.be/XBI7FkrX_Ps" class="button is-info">Video</a>
+<a href="/events/2020_Shem Kalele_23cms Power Amplifier.pdf" class="button is-link">Slides</a>
 
-The semiconductor engineering of high frequency devices and integrated circuits in the GHz world - Full Description Coming
+##### A PI4 Beacon Modulator using SDR and GNU Radio
+Ahmed Kamal
 
-### Building a 1.3 GHz beacon for Cardiff
-Ahmed Kamal and Shem Kalele
+Ahmed has been implementing the PI4 beacon modulation protocol in Python and GNU Radio to be transmitted from an Analog Devices ADALM PLUTO SDR. Additionally a low power, band pass filter will supress any out of band spurious signals. 
 
-Third year students in Cardiff University's Electronics Engineering program complete a course in which they design and build a project. Ahmed has been implementing the PI4 beacon modulation in Python and GNU Radio to be transmitted from an Analog Devices ADALM PLUTO SDR. Shem is designing a 25 Watt amplifier using a Cree GaN transistor. They'll give a report on the progress and learning experience..
+<a href="https://youtu.be/WkqyvYlbAFI" class="button is-info">Video</a>
+<a href="/events/2020_Ahmed Kamal_SDR Beacon Modulator.pdf" class="button is-link">Slides</a>
+
+### Cardiff RAYNET's Mesh Network for Emergency Response
+Dave Thomas MW0RUH
+
+The Radio Amateur's Emergency Network (RAYNET) organization in Cardiff has built a mesh network operating on the 2.4 GHz band. This provides a variety of communication and information services with no reliance on the Internet. Dave will talk about the network, services, and users.
+
+<a href="https://youtu.be/7CZsXKD906o" class="button is-info">Video</a>
+<a href="/events/2020_Dave Thomas_Mesh Cymru.pdf" class="button is-link">Slides</a>
+
 
 ### Interlacing and HD for the DATV Express and LimeSDR
 #### Do try this at home!
@@ -55,30 +50,20 @@ Phil Longhurst GW8BVI
 
 Interlacing is a 1930's technique which has a lot of benefits and is still in use today (1080i HD). But it is a pain to get it right and if you don't the results look terrible! Using paid s/w (Vmix) and free s/w (OBS broadcaster) it can be done if you know how. 1080i HD looks fab and can be transmitted via a mere 1MS/s DVB-S2 with low-latency h.264 (not even the latest 4K HEVC) phys channel.
 
+<a href="https://youtu.be/vwklsEp5_oc" class="button is-info">Video</a>
+<a href="/events/2020_Phil Longhurst_Interlacing and HD for DATV Express.pdf" class="button is-link">Slides</a>
+
 ### Tracking and Measuring Distances with LoRa at 2.4 GHz
 Stuart Robinson GW7HPW
 
 A brief introduction to using the Semtech 2.4 GHz LoRa devices for long distance high altitude balloon tracking and measurement of distance by time of flight of a packet exchange. 
+
+<a href="https://youtu.be/FcmA7KAS1Es" class="button is-info">Video</a>
 
 ### Transistor Load Lines at Home 
 Alex Alt
 
 The Current-Voltage load line of a transitor tells you lots of information about how it will perform in an amplifier, but often aren't included in datasheets. Learn what these useful measurements mean and how to take them using simple equipment. This talk shows how load lines can be used in amplifier design, starting with the measurements of IV curves and ending with an overview of how they can be used in high efficiency PAs.
 
-
-## Breaks
-
-The ENGIN Forum will be open all day and had refreshments during breaks. There will be space for swapmeet tables and organization booths. Bring a build or demo to share! 
-
-There will be a variety of microwave test equipment setup to make measurements of attendees items. We expect to have even more than last year.
-
-Instrument    | Range
---------------|------
-Two port VNA |  2 MHz to 6 GHz (PAs only to 2.4 GHz and 50 Watts due to available attenuators)
-Frequency Counter |  10 Hz to 26.5 GHz
-Power Meter  | 10 MHz to 26.5 GHz
-Noise Figure | 10 MHz to 1.6 GHz (noise source to 18 GHz)
-Signal Generator | 100 kHz to 40 GHz (Two tone capable)
-Rubidium | 10 MHz reference (all devices will be locked to it)
-Digital Multi Meters | 8.5 digits DC & AC current and voltage, resistance - 5.5 digit capacitance
-
+<a href="https://youtu.be/sMgXNJIQszQ" class="button is-info">Video</a>
+<a href="/events/2020_Alex Alt_Transistor Load Lines.pdf" class="button is-link">Slides</a>
