@@ -18,12 +18,12 @@ For information on the licensing process and materials covered check out these p
 
 Slides from our Foundation Trainings are available here.
 
-* [Licensing](/info/01 UK Foundation License - Licensing.pdf)
-* [Transmitters and Receivers](/info/03 UK Foundation License - Transmitters and Receivers.pdf)
-* [Antennas and Feeders](/info/04 UK Foundation License - Antennas&Feeders.pdf)
-* [Propagation](/info/05 UK Foundation License - Propagation.pdf)
-* [Operating](/info/07 UK Foundation License - Operating.pdf)
-* [Safety](/info/08 UK Foundation License - Safety.pdf)
+* <a href="https://www.cardiffars.org.uk/info/01 UK Foundation License - Licensing.pdf">Licensing</a>
+* <a href="https://www.cardiffars.org.uk/info/03 UK Foundation License - Transmitters and Receivers.pdf">Transmitters and Receivers</a>
+* <a href="https://www.cardiffars.org.uk/info/04 UK Foundation License - Antennas&Feeders.pdf">Antennas and Feeders</a>
+* <a href="https://www.cardiffars.org.uk/info/05 UK Foundation License - Propagation.pdf">Propagation</a>
+* <a href="https://www.cardiffars.org.uk/info/07 UK Foundation License - Operating.pdf">Operating</a>
+* <a href="https://www.cardiffars.org.uk/info/08 UK Foundation License - Safety.pdf">Safety</a>
 
 The Chelmsford Amateur Radio Society have a complete set of [presentations and training resources](http://g0mwt.org.uk/training/courses/index.htm) for Foundation, Intermediate and Full licenses. Essex Ham has [slides, revision materials, and videos](https://www.essexham.co.uk/train/foundation-slides/) for the Foundation license. 
 
