@@ -16,6 +16,15 @@ For information on the licensing process and materials covered check out these p
 * [RSGB Training Resources](https://rsgb.org/main/clubs-training/training-resources/)
 * [RSGB License Syllabus](https://rsgb.services/public/exams/specifications/2019-07-28_complete_syllabus_2019_specification.pdf)
 
+Slides from our Foundation Trainings are available here.
+
+* [Licensing](/info/01 UK Foundation License - Licensing.pdf)
+* [Transmitters and Receivers](/info/03 UK Foundation License - Transmitters and Receivers.pdf)
+* [Antennas and Feeders](/info/04 UK Foundation License - Antennas&Feeders.pdf)
+* [Propagation](/info/05 UK Foundation License - Propagation.pdf)
+* [Operating](/info/07 UK Foundation License - Operating.pdf)
+* [Safety](/info/08 UK Foundation License - Safety.pdf)
+
 The Chelmsford Amateur Radio Society have a complete set of [presentations and training resources](http://g0mwt.org.uk/training/courses/index.htm) for Foundation, Intermediate and Full licenses. Essex Ham has [slides, revision materials, and videos](https://www.essexham.co.uk/train/foundation-slides/) for the Foundation license. 
 
 We recommend [Radio Tutor](https://radiotutor.uk/) as a great site for checking your knowledge using practice exams.
