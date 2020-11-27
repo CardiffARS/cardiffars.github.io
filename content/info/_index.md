@@ -6,9 +6,9 @@ draft: false
 layout: single
 ---
 
-The Cardiff University Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby and RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities on campus and around the UK. We are affiliated with both the Radio Society of Great Britain and the Cardiff University Students' Union.
+The Cardiff University Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby and RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities in Cardiff and around the UK. We are affiliated with both the Radio Society of Great Britain and the Cardiff University Students' Union.
 
-We meet up every **Wednesday from 3-6 PM** in the Queen's Buildings for our regular and project sessions. Come any time in then, there's usually not a formal activity and you can come in at any point.
+We meet up every **Thursday at 6 PM** online for our regular and project sessions. Come any time, there's usually not a formal activity.
 
 <div class="columns is-vcentered">
   <div class="column">
@@ -26,8 +26,8 @@ We meet up every **Wednesday from 3-6 PM** in the Queen's Buildings for our regu
 We have a leadership committee which keeps the wheels turning:
 
 > **President**: Derek Kozel, MW0LNA  
-> **Secretary**: Zack Costello, MW0YZC 
-> **Treasurer**: David Collins, 2E0LXD  
+> **Secretary**: James Fletcher, G8YYH
+> **Treasurer**: Sam Stewart, MW7SDS
 
 To contact us off the air for any reason, you can send email to officers@cardiffars.org.uk or directly to one of us at \<position\>@cardiffars.org.uk
 
