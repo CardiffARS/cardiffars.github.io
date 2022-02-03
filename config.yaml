@@ -232,3 +232,5 @@ outputs:
 disableKinds:
 - taxonomy
 - taxonomyKinds
+
+ignoreErrors: ["error-disable-taxonomy"]

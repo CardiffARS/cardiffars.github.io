@@ -8,6 +8,7 @@ jobs:
       - run: git submodule sync
       - run: git submodule update --init
       - run: ./deploy.sh
-    branches:
-      only:
-        - source
+    filters:
+      branches:
+        only:
+          - source

@@ -9,6 +9,8 @@ git config user.name "Cardiff ARS"
 git config user.email "officers@cardiffars.org.uk"
 
 echo "www.cardiffars.org.uk" > CNAME
+cp -r ../.circleci .
+
 git add .
 git commit -m "Deploy from CircleCI"
 
