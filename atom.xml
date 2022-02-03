@@ -1,0 +1,82 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Index on Cardiff University Amateur Radio Society</title>
+	<link href="https://www.cardiffars.org.uk/atom.xml" rel="self"/>
+	<link href="https://www.cardiffars.org.uk/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<updated>2018-03-01T00:00:00+00:00</updated>
+	<id>https://www.cardiffars.org.uk/</id>
+	<author>
+		<name>Cardiff University Amateur Radio Society</name>
+		<email>officers@cardiffars.org.uk</email>
+	</author>
+  <entry>
+	<title>Projects</title>
+    <link href="https://www.cardiffars.org.uk/projects/"/>
+	<id>https://www.cardiffars.org.uk/projects/</id>
+    <published>2020-03-03T09:17:17-08:00</published>
+    <updated>2020-03-03T09:17:17-08:00</updated>
+	<content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>About</title>
+    <link href="https://www.cardiffars.org.uk/about/"/>
+	<id>https://www.cardiffars.org.uk/about/</id>
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+This example &ldquo;about&rdquo; page, and other pages associated with the &ldquo;About&rdquo; section, illustrate two features provided by Hugo-Smorg:
+ layout: subsection partial: breadcrumbs (included in subsection layout by default)  If you find a need for a layout like:
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>What is Amateur Radio?</title>
+    <link href="https://www.cardiffars.org.uk/what/"/>
+	<id>https://www.cardiffars.org.uk/what/</id>
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+From Wikipedia, in a nutshell:
+ Amateur radio, often called ham radio, is both a hobby and a service that uses various types of radio communications equipment to communicate with other radio amateurs for public service, recreation and self-training.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Who are we?</title>
+    <link href="https://www.cardiffars.org.uk/info/"/>
+	<id>https://www.cardiffars.org.uk/info/</id>
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+The Cardiff University Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby and RF experimentation in other bands and licences.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>401 Unauthorized</title>
+    <link href="https://www.cardiffars.org.uk/401/"/>
+	<id>https://www.cardiffars.org.uk/401/</id>
+    <published>2017-03-23T00:00:00+00:00</published>
+    <updated>2017-03-23T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+A user name and password is required.
+You&rsquo;ve attempted to visit a section of the website reserved for authorized users.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Events and Activities</title>
+    <link href="https://www.cardiffars.org.uk/events/"/>
+	<id>https://www.cardiffars.org.uk/events/</id>
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Microwave Roundtable Cardiff University ARS is hosting a meeting of the UK Microwave Group on March 7, 2020 at our campus in Cardiff.
+]]></content>
+  </entry>
+	
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>satellite on Cardiff University Amateur Radio Society</title>
+    <link>https://www.cardiffars.org.uk/tags/satellite/</link>
+    <description>Recent content in satellite on Cardiff University Amateur Radio Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
+    <webMaster>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 03 Mar 2018 09:17:17 -0800</lastBuildDate><atom:link href="https://www.cardiffars.org.uk/tags/satellite/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Es&#39;hail 2 Satellite</title>
+      <link>https://www.cardiffars.org.uk/projects/eshail2/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/projects/eshail2/</guid>
+      <description>Es&amp;rsquo;hail 2 is a communications satellite recently launched by the Qatar Satellite Company which carries an Amateur Radio transponder capable of both narrowband and wideband modes.</description>
+    </item>
+    
+  </channel>
+</rss>
