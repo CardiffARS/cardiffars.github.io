@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Cardiff University Amateur Radio Society</title>
+    <link>https://www.cardiffars.org.uk/about/</link>
+    <description>Recent content in About on Cardiff University Amateur Radio Society</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
+    <webMaster>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 08 Apr 2018 09:16:58 -0800</lastBuildDate>
+    <atom:link href="https://www.cardiffars.org.uk/about/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>https://www.cardiffars.org.uk/about/contact/</link>
+      <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate><author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/about/contact/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/archive/a/a8/20120607165054%21Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG&#34; alt=&#34;Startrek&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are a little busy exploring space right now; we&amp;rsquo;ll get back to you when we&#xA;return to this solar system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

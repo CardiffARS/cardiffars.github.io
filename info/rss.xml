@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Who are we? on Cardiff University Amateur Radio Society</title>
+    <link>https://www.cardiffars.org.uk/info/</link>
+    <description>Recent content in Who are we? on Cardiff University Amateur Radio Society</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</managingEditor>
+    <webMaster>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.cardiffars.org.uk/info/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equipment</title>
+      <link>https://www.cardiffars.org.uk/info/equipment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/info/equipment/</guid>
+      <description>&lt;p&gt;Cardiff University ARS is fortunate to have had a Software Defined Radio transceiver donated to the society. We use it with GNU Radio to demonstrate RF and communication signal concepts during our info sessions and to run demonstrations at public events. Within the group it is available to anyone interested in experimenting with Digital Signal Processing or UHF and Microwave systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Licensed</title>
+      <link>https://www.cardiffars.org.uk/info/licensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/info/licensing/</guid>
+      <description>&lt;p&gt;Anyone is allowed to receive and listen to signals being broadcast, but as described in the &lt;a href=&#34;https://www.cardiffars.org.uk/what/&#34;&gt;What is Amateur Radio&lt;/a&gt; page it is necessary to get a license before transmitting. The short test (26 multiple choice questions) covers the basic skills and rules covering operating a radio system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Join the Society</title>
+      <link>https://www.cardiffars.org.uk/info/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>officers@cardiffars.org.uk (Cardiff University Amateur Radio Society)</author>
+      <guid>https://www.cardiffars.org.uk/info/join/</guid>
+      <description>&lt;p&gt;Before anything else, come along to a meeting or an event. There&amp;rsquo;s only so much we can put onto the website and there&amp;rsquo;s lots to see. Send us an email at &lt;a href=&#34;mailto:officers@cardiffars.org.uk&#34;&gt;officers@cardiffars.org.uk&lt;/a&gt; and we can tell you what&amp;rsquo;s happening soon. If you aren&amp;rsquo;t university affiliated also send us an email, there&amp;rsquo;s lots of ways of being involved.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

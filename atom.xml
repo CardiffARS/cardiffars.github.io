@@ -1,0 +1,105 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Index on Cardiff University Amateur Radio Society</title>
+	<link href="https://www.cardiffars.org.uk/atom.xml" rel="self"/>
+	<link href="https://www.cardiffars.org.uk/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<updated>2018-03-01T00:00:00+00:00</updated>
+	<id>https://www.cardiffars.org.uk/</id>
+  <entry>
+	<title>Projects</title>
+    <link href="https://www.cardiffars.org.uk/projects/"/>
+	<id>https://www.cardiffars.org.uk/projects/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>2020-03-03T09:17:17-08:00</published>
+    <updated>2020-03-03T09:17:17-08:00</updated>
+	<content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>About</title>
+    <link href="https://www.cardiffars.org.uk/about/"/>
+	<id>https://www.cardiffars.org.uk/about/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+<p>This example &ldquo;about&rdquo; page, and other pages associated with the &ldquo;About&rdquo; section,
+illustrate two features provided by Hugo-Smorg:</p>
+<ul>
+<li><strong>layout</strong>: subsection</li>
+<li><strong>partial</strong>: breadcrumbs (included in subsection layout by default)</li>
+</ul>
+<p>If you find a need for a layout like:</p>
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>What is Amateur Radio?</title>
+    <link href="https://www.cardiffars.org.uk/what/"/>
+	<id>https://www.cardiffars.org.uk/what/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+<p>From <a href="https://en.wikipedia.org/wiki/Amateur_radio">Wikipedia</a>, in a nutshell:</p>
+<blockquote>
+<p>Amateur radio, often called ham radio, is both a hobby and a service that uses various types of radio communications equipment to communicate with other radio amateurs for public service, recreation and self-training. A participant is called an amateur radio operator, or a ham.</p>
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Who are we?</title>
+    <link href="https://www.cardiffars.org.uk/info/"/>
+	<id>https://www.cardiffars.org.uk/info/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>2018-03-07T02:16:58-08:00</published>
+    <updated>2018-03-07T02:16:58-08:00</updated>
+	<content type="html"><![CDATA[
+<p>The Cardiff University Amateur Radio Society is based at Cardiff University and aims to provide a home and resources for all areas of the Amateur Radio hobby and RF experimentation in other bands and licences. The group is open to all Cardiff University students, faculty, and staff. We meet regularily during the school year and organize events and activities in Cardiff and around the UK. We are affiliated with both the Radio Society of Great Britain and the Cardiff University Students&rsquo; Union.</p>
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>401 Unauthorized</title>
+    <link href="https://www.cardiffars.org.uk/401/"/>
+	<id>https://www.cardiffars.org.uk/401/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>2017-03-23T00:00:00+00:00</published>
+    <updated>2017-03-23T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+<p><em><strong>A user name and password is required.</strong></em></p>
+<p>You&rsquo;ve attempted to visit a section of the website reserved for authorized
+users.</p>
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Events and Activities</title>
+    <link href="https://www.cardiffars.org.uk/events/"/>
+	<id>https://www.cardiffars.org.uk/events/</id><author>
+      <name>map[email:officers@cardiffars.org.uk name:Cardiff University Amateur Radio Society]</name>
+	</author>
+	
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+<h1 id="2023">2023</h1>
+<h2 id="give-it-a-go-wireless-hackinghttpswwwcardiffstudentscomevents1971431209"><a href="https://www.cardiffstudents.com/events/19714/31209/">Give it a Go: Wireless Hacking</a></h2>
+<p>Learn how to receive, hack, and transmit wireless radio signals in our Give it A Go event run jointly with TecSoc! What is a radio signal? How does it carry information? Learn how can you receive, modify, and transmit your own signals?</p>
+]]></content>
+  </entry>
+	
+</feed>
