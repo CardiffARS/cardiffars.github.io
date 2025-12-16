@@ -10,11 +10,6 @@
 					<em>{{- partial "page-meta.html" . -}}</em></p>
 					{{- partial "page-status.html" . -}}
 					{{- .Content }}
-					{{ if $.Site.DisqusShortname }}
-						<hr>
-						{{ template "_internal/disqus.html" . }}
-					{{ end }}
-
 				</article>
 			</div>
 		</div>

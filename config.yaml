@@ -25,11 +25,6 @@ title: "Cardiff University Amateur Radio Society"
 #
 # Optional variables can be edited or commented out as desired.
 #
-# author name appears in RSS and Atom feeds; 
-# author email address is optional and can be # commented out.
-author: 
-    name: "Cardiff University Amateur Radio Society"
-    email: "officers@cardiffars.org.uk"
 
 # copyright appears in the default site footer 
 copyright: "<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>"
@@ -44,8 +39,9 @@ metaDataFormat: yaml
 # directive in content files. https://gohugo.io/content-management/summaries/
 summaryLength: 20
 
-# paginate sets the maximum number of items (pages) in a page listing.
-paginate: 5  # set very low for demo purposes only, 5 - 10 or more would be reasonable 
+# pagination sets the maximum number of items (pages) in a page listing.
+pagination:
+  pagerSize: 5  # set very low for demo purposes only, 5 - 10 or more would be reasonable
 
 # GoogleAnalytics offers deep insight into how visitors use your site. It's
 # optional, and free: https://www.google.com/analytics/analytics/
@@ -123,6 +119,11 @@ params:
         name: Cardiff University Amateur Radio Society
         logo: url to logo image
 
+    # author name appears in RSS and Atom feeds; 
+    # author email address is optional and can be # commented out.
+    author: 
+        name: "Cardiff University Amateur Radio Society"
+        email: "officers@cardiffars.org.uk"
 
 # Primary Navigation Menu (partials/nav.html) ----------------------------
 
@@ -231,6 +232,5 @@ outputs:
 # Optional, disable RSS feed
 disableKinds:
 - taxonomy
-- taxonomyKinds
 
 ignoreErrors: ["error-disable-taxonomy"]
